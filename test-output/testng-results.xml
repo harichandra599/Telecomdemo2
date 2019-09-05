@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="75355" started-at="2019-09-04T13:10:57Z" finished-at="2019-09-04T13:12:12Z">
+  <suite name="Default suite" duration-ms="85684" started-at="2019-09-05T18:33:45Z" finished-at="2019-09-05T18:35:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="75355" started-at="2019-09-04T13:10:57Z" finished-at="2019-09-04T13:12:12Z">
+    <test name="Default test" duration-ms="85684" started-at="2019-09-05T18:33:45Z" finished-at="2019-09-05T18:35:10Z">
       <class name="com.Telecom.LoginPage.Telecomopr">
-        <test-method status="PASS" signature="openbrowser(java.lang.reflect.Method)[pri:0, instance:com.Telecom.LoginPage.Telecomopr@6a01e23]" name="openbrowser" is-config="true" duration-ms="29004" started-at="2019-09-04T13:10:57Z" finished-at="2019-09-04T13:11:26Z">
+        <test-method status="PASS" signature="openbrowser(java.lang.reflect.Method)[pri:0, instance:com.Telecom.LoginPage.Telecomopr@7f9fcf7f]" name="openbrowser" is-config="true" duration-ms="13938" started-at="2019-09-06T00:03:45Z" finished-at="2019-09-06T00:03:59Z">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openbrowser -->
-        <test-method status="PASS" signature="telecomoperations()[pri:0, instance:com.Telecom.LoginPage.Telecomopr@6a01e23]" name="telecomoperations" duration-ms="45639" started-at="2019-09-04T13:11:26Z" finished-at="2019-09-04T13:12:11Z">
+        <test-method status="PASS" signature="telecomoperations()[pri:0, instance:com.Telecom.LoginPage.Telecomopr@7f9fcf7f]" name="telecomoperations" duration-ms="68068" started-at="2019-09-06T00:03:59Z" finished-at="2019-09-06T00:05:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- telecomoperations -->
-        <test-method status="PASS" signature="browserclose()[pri:0, instance:com.Telecom.LoginPage.Telecomopr@6a01e23]" name="browserclose" is-config="true" duration-ms="640" started-at="2019-09-04T13:12:11Z" finished-at="2019-09-04T13:12:12Z">
+        <test-method status="PASS" signature="browserclose()[pri:0, instance:com.Telecom.LoginPage.Telecomopr@7f9fcf7f]" name="browserclose" is-config="true" duration-ms="3653" started-at="2019-09-06T00:05:07Z" finished-at="2019-09-06T00:05:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserclose -->

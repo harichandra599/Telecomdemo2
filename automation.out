@@ -3578,3 +3578,120 @@
 2019-09-04 18:42:11 INFO  Telecomobj:117 - Power Outage count under Alerts:- 0
 2019-09-04 18:42:11 INFO  Telecomopr:36 - <===========Ended Telecom operations===========> 
 2019-09-04 18:42:12 INFO  TestBase:175 - browser closed
+2019-09-05 23:00:21 INFO  TestBase:115 - creating object of chrome
+2019-09-05 23:00:42 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-09-05 23:00:49 INFO  Telecomopr:32 - <===========Starting Telecom operations===========>
+2019-09-05 23:00:54 INFO  Telecomobj:73 - Telecom Dashoard displayed
+2019-09-05 23:00:59 INFO  Telecomobj:79 - page navigiated to site results
+2019-09-05 23:01:05 INFO  Telecomobj:83 - page navigiated to home page
+2019-09-05 23:01:10 INFO  Telecomobj:86 - Site locations count is:- 3
+2019-09-05 23:01:15 INFO  Telecomobj:91 - page navigiated to hvac results
+2019-09-05 23:01:20 INFO  Telecomobj:95 - page navigiated to home page
+2019-09-05 23:01:25 INFO  Telecomobj:98 - Hvac count is:- 3
+2019-09-05 23:01:30 INFO  Telecomobj:101 - needs attention count under HVAC status is :- 4
+2019-09-05 23:01:30 INFO  Telecomobj:103 - working condition under HVAC status is:- 0
+2019-09-05 23:01:30 INFO  Telecomobj:105 - needs attention count under main Status is:- 3
+2019-09-05 23:01:30 INFO  Telecomobj:107 - working condition count under main Status is:- 0
+2019-09-05 23:01:30 INFO  Telecomobj:109 - Non Responsive count under Alerts:- 0
+2019-09-05 23:01:30 INFO  Telecomobj:111 - Low battery count under Alerts:- 0
+2019-09-05 23:01:31 INFO  Telecomobj:113 - Need Maintenance count under Alerts:- 3
+2019-09-05 23:01:31 INFO  Telecomobj:115 - New Sites count  under Alerts:- 1
+2019-09-05 23:01:31 INFO  Telecomobj:117 - Power Outage count under Alerts:- 0
+2019-09-05 23:01:31 INFO  Telecomopr:34 - <===========Ended Telecom operations===========> 
+2019-09-05 23:01:31 INFO  TestBase:175 - browser closed
+2019-09-05 23:40:40 INFO  TestBase:115 - creating object of chrome
+2019-09-05 23:40:52 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-09-05 23:41:04 INFO  Telecomopr:32 - <===========Starting Telecom operations===========>
+2019-09-05 23:41:09 INFO  Telecomobj:83 - Telecom Dashoard displayed
+2019-09-05 23:41:14 INFO  Telecomobj:89 - page navigiated to site results
+2019-09-05 23:41:19 INFO  Telecomobj:93 - page navigiated to home page
+2019-09-05 23:41:24 INFO  Telecomobj:96 - Site locations count is:- 3
+2019-09-05 23:41:30 INFO  Telecomobj:101 - page navigiated to hvac results
+2019-09-05 23:41:35 INFO  Telecomobj:105 - page navigiated to home page
+2019-09-05 23:41:40 INFO  Telecomobj:108 - Hvac count is:- 3
+2019-09-05 23:41:45 INFO  Telecomobj:111 - needs attention count under HVAC status is :- 4
+2019-09-05 23:41:45 INFO  Telecomobj:113 - working condition under HVAC status is:- 0
+2019-09-05 23:41:45 INFO  Telecomobj:115 - needs attention count under main Status is:- 3
+2019-09-05 23:41:45 INFO  Telecomobj:117 - working condition count under main Status is:- 0
+2019-09-05 23:41:45 INFO  Telecomobj:119 - Non Responsive count under Alerts:- 0
+2019-09-05 23:41:45 INFO  Telecomobj:121 - Low battery count under Alerts:- 0
+2019-09-05 23:41:45 INFO  Telecomobj:123 - Need Maintenance count under Alerts:- 3
+2019-09-05 23:41:45 INFO  Telecomobj:125 - New Sites count  under Alerts:- 1
+2019-09-05 23:41:45 INFO  Telecomobj:127 - Power Outage count under Alerts:- 0
+2019-09-05 23:41:45 INFO  Telecomobj:130 - Battery bank utilization in hours :-0hours
+2019-09-05 23:41:45 INFO  Telecomobj:132 - Status of health under 0-2 hours :-100%
+2019-09-05 23:41:45 INFO  Telecomobj:134 - Status of health under 3-5 hours :-0%
+2019-09-05 23:41:45 INFO  Telecomobj:136 - Status of health under 6-8 hours :-0%
+2019-09-05 23:41:45 INFO  Telecomopr:34 - <===========Ended Telecom operations===========> 
+2019-09-05 23:41:46 INFO  TestBase:175 - browser closed
+2019-09-05 23:51:14 INFO  TestBase:115 - creating object of chrome
+2019-09-05 23:51:22 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-09-05 23:51:33 INFO  Telecomopr:32 - <===========Starting Telecom operations===========>
+2019-09-05 23:51:38 INFO  Telecomobj:97 - Telecom Dashoard displayed
+2019-09-05 23:51:43 INFO  Telecomobj:102 - Dash board main menu button clicked successfully
+2019-09-05 23:51:43 INFO  Telecomobj:105 - Sites cliked successfully on left Menu
+2019-09-05 23:51:43 INFO  Telecomobj:108 - Assets cliked successfully on left Menu
+2019-09-05 23:51:43 INFO  TestBase:175 - browser closed
+2019-09-05 23:52:41 INFO  TestBase:115 - creating object of chrome
+2019-09-05 23:52:47 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-09-05 23:52:56 INFO  Telecomopr:31 - <===========Starting Telecom operations===========>
+2019-09-05 23:53:01 INFO  Telecomobj:97 - Telecom Dashoard displayed
+2019-09-05 23:53:06 INFO  Telecomobj:102 - Dash board main menu button clicked successfully
+2019-09-05 23:53:12 INFO  Telecomobj:106 - Sites cliked successfully on left Menu
+2019-09-05 23:53:17 INFO  Telecomobj:110 - Assets cliked successfully on left Menu
+2019-09-05 23:53:22 INFO  TestBase:175 - browser closed
+2019-09-05 23:54:29 INFO  TestBase:115 - creating object of chrome
+2019-09-05 23:54:36 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-09-05 23:54:43 INFO  Telecomopr:31 - <===========Starting Telecom operations===========>
+2019-09-05 23:54:48 INFO  Telecomobj:97 - Telecom Dashoard displayed
+2019-09-05 23:54:53 INFO  Telecomobj:102 - Dash board main menu button clicked successfully
+2019-09-05 23:54:58 INFO  Telecomobj:106 - Sites cliked successfully on left Menu
+2019-09-05 23:55:03 INFO  Telecomobj:110 - Assets cliked successfully on left Menu
+2019-09-05 23:55:09 INFO  Telecomobj:114 - Settings cliked successfully on left Menu
+2019-09-05 23:56:09 INFO  Telecomobj:118 - page navigiated to site results
+2019-09-05 23:56:14 INFO  Telecomobj:122 - page navigiated to home page
+2019-09-05 23:58:51 INFO  TestBase:115 - creating object of chrome
+2019-09-05 23:58:57 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-09-05 23:59:04 INFO  Telecomopr:31 - <===========Starting Telecom operations===========>
+2019-09-05 23:59:09 INFO  Telecomobj:100 - Telecom Dashoard displayed
+2019-09-05 23:59:14 INFO  Telecomobj:105 - Dash board main menu button clicked successfully
+2019-09-05 23:59:19 INFO  Telecomobj:109 - Sites cliked successfully on left Menu
+2019-09-05 23:59:24 INFO  Telecomobj:113 - Assets cliked successfully on left Menu
+2019-09-05 23:59:29 INFO  Telecomobj:117 - Settings cliked successfully on left Menu
+2019-09-06 00:00:57 INFO  TestBase:115 - creating object of chrome
+2019-09-06 00:01:02 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-09-06 00:01:10 INFO  Telecomopr:31 - <===========Starting Telecom operations===========>
+2019-09-06 00:01:15 INFO  Telecomobj:100 - Telecom Dashoard displayed
+2019-09-06 00:01:20 INFO  Telecomobj:105 - Dash board main menu button clicked successfully
+2019-09-06 00:01:25 INFO  Telecomobj:109 - Sites cliked successfully on left Menu
+2019-09-06 00:01:30 INFO  Telecomobj:113 - Assets cliked successfully on left Menu
+2019-09-06 00:01:35 INFO  Telecomobj:117 - Settings cliked successfully on left Menu
+2019-09-06 00:03:45 INFO  TestBase:115 - creating object of chrome
+2019-09-06 00:03:52 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-09-06 00:04:02 INFO  Telecomopr:31 - <===========Starting Telecom operations===========>
+2019-09-06 00:04:07 INFO  Telecomobj:100 - Telecom Dashoard displayed
+2019-09-06 00:04:12 INFO  Telecomobj:105 - Dash board main menu button clicked successfully
+2019-09-06 00:04:17 INFO  Telecomobj:109 - Sites cliked successfully on left Menu
+2019-09-06 00:04:22 INFO  Telecomobj:113 - Assets cliked successfully on left Menu
+2019-09-06 00:04:27 INFO  Telecomobj:117 - Settings cliked successfully on left Menu
+2019-09-06 00:04:36 INFO  Telecomobj:125 - page navigiated to site results
+2019-09-06 00:04:41 INFO  Telecomobj:129 - page navigiated to home page
+2019-09-06 00:04:46 INFO  Telecomobj:132 - Site locations count is:- 3
+2019-09-06 00:04:51 INFO  Telecomobj:137 - page navigiated to hvac results
+2019-09-06 00:04:56 INFO  Telecomobj:141 - page navigiated to home page
+2019-09-06 00:05:01 INFO  Telecomobj:144 - Hvac count is:- 3
+2019-09-06 00:05:06 INFO  Telecomobj:147 - needs attention count under HVAC status is :- 4
+2019-09-06 00:05:06 INFO  Telecomobj:149 - working condition under HVAC status is:- 0
+2019-09-06 00:05:06 INFO  Telecomobj:151 - needs attention count under main Status is:- 3
+2019-09-06 00:05:06 INFO  Telecomobj:153 - working condition count under main Status is:- 0
+2019-09-06 00:05:06 INFO  Telecomobj:155 - Non Responsive count under Alerts:- 0
+2019-09-06 00:05:06 INFO  Telecomobj:157 - Low battery count under Alerts:- 0
+2019-09-06 00:05:06 INFO  Telecomobj:159 - Need Maintenance count under Alerts:- 3
+2019-09-06 00:05:06 INFO  Telecomobj:161 - New Sites count  under Alerts:- 1
+2019-09-06 00:05:06 INFO  Telecomobj:163 - Power Outage count under Alerts:- 0
+2019-09-06 00:05:07 INFO  Telecomobj:166 - Battery bank utilization in hours :-0hours
+2019-09-06 00:05:07 INFO  Telecomobj:168 - Status of health under 0-2 hours :-100%
+2019-09-06 00:05:07 INFO  Telecomobj:170 - Status of health under 3-5 hours :-0%
+2019-09-06 00:05:07 INFO  Telecomobj:172 - Status of health under 6-8 hours :-0%
+2019-09-06 00:05:07 INFO  Telecomopr:33 - <===========Ended Telecom operations===========> 
+2019-09-06 00:05:07 INFO  TestBase:175 - browser closed

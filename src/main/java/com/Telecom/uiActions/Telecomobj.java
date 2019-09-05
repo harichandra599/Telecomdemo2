@@ -25,6 +25,23 @@ public class Telecomobj extends TestBase
     	 this.driver=driver;
     	 PageFactory.initElements(driver, this);
     }
+    
+
+    @FindBy(how = How.CSS, using = ".text-dark-cerulean")
+    WebElement dbmainmenubtn; //Web Element and css For main menu button
+    
+    @FindBy(how = How.CSS, using = "div:nth-child(2) > a .mt4")
+    WebElement sites; //Web Element and css For Sites
+    
+    @FindBy(how = How.CSS, using = "div:nth-child(3) .flex > .mt4")
+    WebElement assets; //Web Element and css For assets
+    
+    @FindBy(how = How.CSS, using = "div:nth-child(4) .mt4")
+    WebElement settings; //Web Element and css For settings
+    
+    @FindBy(how = How.CSS, using = "div:nth-child(1) > a .mt4")
+    WebElement dashboard; //Web Element and css For dash board
+    
     @FindBy(how = How.CSS, using = ".site-count > .f18")
     WebElement sitelocations; //Web Element and css For site locations
     
@@ -64,7 +81,17 @@ public class Telecomobj extends TestBase
     @FindBy(how = How.CSS, using = ".mt2:nth-child(5) .f24")
     WebElement PowerOutage; //Web Element and css For Power Outage under Alerts
     
-   
+    @FindBy(how = How.CSS, using = "app-usage-card:nth-child(3) .fw-light:nth-child(1)")
+    WebElement batteryutlization; //Web Element and css For battery utilization
+    
+    @FindBy(how = How.CSS, using = ".mt3:nth-child(3) .f12")
+    WebElement soh1; //Web Element and css For status of health in 0-2 hours
+    
+    @FindBy(how = How.CSS, using = ".mt3:nth-child(4) .f12")
+    WebElement soh2; //Web Element and css For status of health in 3-5 hours
+    
+    @FindBy(how = How.CSS, using = ".mt3:nth-child(5) .f12")
+    WebElement soh3; //Web Element and css For status of health in 6-8 hours
     
     public void telecomoperations() throws Exception
     {
@@ -72,6 +99,25 @@ public class Telecomobj extends TestBase
   	  Thread.sleep(5000);
   	  log.info("Telecom Dashoard displayed");
   	  //Click on site locations 
+  	  Thread.sleep(5000);
+  	  //Click on dash board main menu button
+  	  dbmainmenubtn.click();
+  	  log.info("Dash board main menu button clicked successfully");
+  	  //click on sites
+  	  Thread.sleep(5000);
+  	  sites.click();
+  	  log.info("Sites cliked successfully on left Menu");
+  	  //click on Assets
+  	  Thread.sleep(5000);
+  	  assets.click();
+  	  log.info("Assets cliked successfully on left Menu");
+  	  //click on settings
+  	  Thread.sleep(5000);
+  	  settings.click();
+  	  log.info("Settings cliked successfully on left Menu");
+  	  //click on Dashboard
+  	  Thread.sleep(3000);
+  	  dashboard.click();
   	  Thread.sleep(5000);
   	  Actions a= new Actions(driver);
   	  a.moveToElement(sitelocations).click().build().perform();
@@ -115,7 +161,15 @@ public class Telecomobj extends TestBase
 	  log.info("New Sites count  under Alerts:- " +NewSites.getText());
 	  //Display count of Power Outage under Alerts 
 	  log.info("Power Outage count under Alerts:- " +PowerOutage.getText());
-	  
+	  //Battery Bank utilization 
+	  //print battery bank utilization in hours 
+      log.info("Battery bank utilization in hours :-" +batteryutlization.getText());
+      //print status of health 	under 0-2 hours
+      log.info("Status of health under 0-2 hours :-" +soh1.getText());
+      //print status of health 	under 0-2 hours
+      log.info("Status of health under 3-5 hours :-" +soh2.getText());
+      //print status of health 	under 0-2 hours
+      log.info("Status of health under 6-8 hours :-" +soh3.getText());
 	  
 	}
 }
