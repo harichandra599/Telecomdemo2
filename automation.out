@@ -3695,3 +3695,16 @@
 2019-09-06 00:05:07 INFO  Telecomobj:172 - Status of health under 6-8 hours :-0%
 2019-09-06 00:05:07 INFO  Telecomopr:33 - <===========Ended Telecom operations===========> 
 2019-09-06 00:05:07 INFO  TestBase:175 - browser closed
+2019-09-17 20:52:14 INFO  TestBase:115 - creating object of chrome
+2019-09-17 20:52:29 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-09-17 20:52:36 INFO  Telecomopr:31 - <===========Starting Telecom operations===========>
+2019-09-17 20:52:41 INFO  Telecomobj:100 - Telecom Dashoard displayed
+2019-09-17 20:52:47 INFO  Telecomobj:105 - Dash board main menu button clicked successfully
+2019-09-17 20:52:52 INFO  Telecomobj:109 - Sites cliked successfully on left Menu
+2019-09-17 20:52:57 INFO  Telecomobj:113 - Assets cliked successfully on left Menu
+2019-09-17 20:53:02 INFO  Telecomobj:117 - Settings cliked successfully on left Menu
+2019-09-17 20:53:11 INFO  Telecomobj:125 - page navigiated to site results
+2019-09-17 20:53:16 INFO  Telecomobj:129 - page navigiated to home page
+2019-09-17 20:53:21 INFO  Telecomobj:132 - Site locations count is:- 3
+2019-09-17 20:53:27 INFO  Telecomobj:137 - page navigiated to hvac results
+2019-09-17 20:53:32 INFO  Telecomobj:141 - page navigiated to home page
