@@ -13,13 +13,13 @@ public class Sendmail
        public void  SendAttachment() throws Exception
        {  
          Thread.sleep(20000);
-         String to="nihanth.reddy@maventus.com";
-         String to1="hari.padyala@maventus.com";
+         String to="";
+         String to1="";
        //String cc=";//change accordingly 
        //String cc1="";//change accordingly 
       // String bcc="";//change accordingly  
-         final String user="testervnr@gmail.com";//change accordingly  
-         final String password="social1234";//change accordingly  
+         final String user="";//change accordingly  
+         final String password="";//change accordingly  
           
          
          
@@ -80,7 +80,7 @@ public class Sendmail
            "QA Automation Team");
            
            Thread.sleep(20000);
-           String filename = "I:\\hari\\Automation\\Workspaces\\Mavenproject\\Mavsocial\\test-output\\emailable-report.html";//change accordingly 
+           String filename = "/Telecomdemo/test-output/emailable-report.html";//change accordingly 
            DataSource source = new FileDataSource(filename);  
            messageBodyPart2.setDataHandler(new DataHandler(source));  
            messageBodyPart2.setFileName(filename);  
