@@ -93,6 +93,83 @@ public class Telecomobj extends TestBase
     @FindBy(how = How.CSS, using = ".mt3:nth-child(5) .f12")
     WebElement soh3; //Web Element and css For status of health in 6-8 hours
     
+    //State of Charge(SOC) perecentage
+    @FindBy(how = How.CSS, using = ".w33p:nth-child(1) .percentage:nth-child(3)")
+    WebElement soc1; //Display perecentage and battery banks count 
+    
+   //State of Charge(SOC) battery banks count
+    @FindBy(how = How.CSS, using = ".w33p:nth-child(1) .f24")
+    WebElement soc1b; //Display perecentage and battery banks count
+    
+    //State of Charge(SOC) perecentage
+    @FindBy(how = How.CSS, using = ".w33p:nth-child(2) .percentage:nth-child(3)")
+    WebElement soc2; //Display perecentage and battery banks count 
+    
+   //State of Charge(SOC) battery banks count
+    @FindBy(how = How.CSS, using = ".w33p:nth-child(2) .f24")
+    WebElement soc2b; //Display perecentage and battery banks count
+    
+    //State of Charge(SOC) perecentage
+    @FindBy(how = How.CSS, using = ".w33p:nth-child(3) .percentage:nth-child(3)")
+    WebElement soc3; //Display perecentage and battery banks count 
+    
+   //State of Charge(SOC) battery banks count
+    @FindBy(how = How.CSS, using = ".w33p:nth-child(3) .f24")
+    WebElement soc3b; //Display perecentage and battery banks count
+    
+    //Alerts
+    @FindBy(how = How.CSS, using = ".mt2:nth-child(1) .f24")
+    WebElement alnonres; //Display alerts for Non responsive
+    
+    @FindBy(how = How.CSS, using = ".mt2:nth-child(2) .f24")
+    WebElement allowbat; //Display alerts for Low battery
+    
+    @FindBy(how = How.CSS, using = ".mt2:nth-child(3) .f24")
+    WebElement alneedm; //Display alerts for Need Maintenance
+    
+    @FindBy(how = How.CSS, using = ".mt2:nth-child(4) .f24")
+    WebElement alnewsites; //Display alerts for new sites
+    
+    @FindBy(how = How.CSS, using = ".mt2:nth-child(5) .f24")
+    WebElement alpowerout; //Display alerts for power outage
+    
+    
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     public void telecomoperations() throws Exception
     {
   	  //enter user name 
@@ -109,11 +186,12 @@ public class Telecomobj extends TestBase
   	  log.info("Sites cliked successfully on left Menu");
   	  //click on Assets
   	  Thread.sleep(5000);
-  	  assets.click();
+  	  dbmainmenubtn.click();
+  	  //assets.click();
   	  log.info("Assets cliked successfully on left Menu");
   	  //click on settings
   	  Thread.sleep(5000);
-  	  settings.click();
+  	  //settings.click();
   	  log.info("Settings cliked successfully on left Menu");
   	  //click on Dashboard
   	  Thread.sleep(3000);
@@ -171,5 +249,71 @@ public class Telecomobj extends TestBase
       //print status of health 	under 0-2 hours
       log.info("Status of health under 6-8 hours :-" +soh3.getText());
 	  
+      //status of charge(SOC)
+      //print Current Charge of battery Banks in first column
+      String soc1s = soc1.getText(); String soc1s1 =soc1b.getText();
+      log.info( soc1s +"charge for "+ soc1s1 +" Battery banks");
+      //print Current Charge of battery Banks in second column
+      String soc2s = soc2.getText(); String soc2s1 =soc2b.getText();
+      log.info( soc2s +"charge for "+ soc2s1  +" Battery banks");
+      //print Current Charge of battery Banks in second column
+      String soc3s = soc2.getText(); String soc3s1 =soc2b.getText();
+      log.info( soc3s +"charge for "+ soc3s1  +" Battery banks");
+      
+      //Alerts 
+      //print alert count for Non responsive
+      log.info("alerts count for Non responsive:-" +alnonres.getText());
+      //print alert count for Low battery
+      log.info("alerts count for Low battery:-" +allowbat.getText());
+      //print alert count for need maintenance
+      log.info("alerts count for need maintenance:-" +alneedm.getText());
+      //print alert count for new sites
+      log.info("alerts count for new sites:-" +alnewsites.getText());
+      //print alert count for power outage
+      log.info("alerts count for power outage:-" +alpowerout.getText());
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
 	}
 }
