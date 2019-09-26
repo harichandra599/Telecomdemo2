@@ -31,8 +31,8 @@ public class Telecomopr extends TestBase
 		  log.info("<===========Starting Telecom operations===========>");
 		  tel.telecomoperations();
 		  log.info("<===========Ended Telecom operations===========> ");
-		  /*Sendmail sndmail=new Sendmail();
-		  sndmail.SendAttachment();*/
+		  Sendmail sndmail=new Sendmail();
+		  sndmail.SendAttachment();
 		  
 	  }
 

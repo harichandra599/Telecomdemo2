@@ -13,13 +13,13 @@ public class Sendmail
        public void  SendAttachment() throws Exception
        {  
          Thread.sleep(20000);
-         String to="";
-         String to1="";
+         String to="varshanihanthreddy@gmail.com";
+         String to1="padyalahcprasad@gmail.com";
        //String cc=";//change accordingly 
        //String cc1="";//change accordingly 
       // String bcc="";//change accordingly  
-         final String user="";//change accordingly  
-         final String password="";//change accordingly  
+         final String user="haritest599@gmail.com";//change accordingly  
+         final String password="chandra599.";//change accordingly  
           
          
          
@@ -64,7 +64,7 @@ public class Sendmail
           // message.addRecipient(Message.RecipientType.BCC,new InternetAddress(bcc)); 
            DateFormat dateFormat = new SimpleDateFormat("dd-MM-yyyy HH-mm-ss");
              Date dt = new Date();
-           message.setSubject("production Navigation Automation Testing report",dateFormat.format(dt));  
+           message.setSubject("Telecom Navigation Automation Testing report",dateFormat.format(dt));  
              
            //3) create MimeBodyPart object and set your message text     
            BodyPart messageBodyPart1 = new MimeBodyPart();  
@@ -72,7 +72,7 @@ public class Sendmail
             //4) create new MimeBodyPart object and set DataHandler object to this object      
            MimeBodyPart messageBodyPart2 = new MimeBodyPart();  
            messageBodyPart1.setText( "Dear Team,\n " +
-           " production Navigation Automation testing using Selenium automation testing to find out the discrepancies, Please find the attached status report.\n" +
+           " Telecom Navigation Automation testing using Selenium automation testing to find out the discrepancies, Please find the attached status report.\n" +
             " \n"    +   
             " \n"    +  
             " \n"    +  
