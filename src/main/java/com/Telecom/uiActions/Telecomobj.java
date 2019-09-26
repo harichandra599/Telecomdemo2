@@ -133,7 +133,27 @@ public class Telecomobj extends TestBase
     @FindBy(how = How.CSS, using = ".mt2:nth-child(5) .f24")
     WebElement alpowerout; //Display alerts for power outage
     
+    //Diesel level status 
+    @FindBy(how = How.CSS, using = "app-usage-card:nth-child(1) .f40")
+    WebElement dls; //Display diesel level gas status
     
+    @FindBy(how = How.CSS, using = ".ng-star-inserted:nth-child(1) > .flex > .f22")
+    WebElement dgs1; //Display diesel level gas status first row
+    
+    @FindBy(how = How.CSS, using = ".ng-star-inserted:nth-child(1) > .flex > .pr3")
+    WebElement dgs1g; //Display diesel level gas status first row
+    
+    @FindBy(how = How.CSS, using = ".ng-star-inserted:nth-child(2) > .flex > .f22")
+    WebElement dgs2; //Display diesel level gas status second row
+    
+    @FindBy(how = How.CSS, using = ".ng-star-inserted:nth-child(2) > .flex > .pr3")
+    WebElement dgs2g; //Display diesel level gas status second row
+    
+    @FindBy(how = How.CSS, using = ".ng-star-inserted:nth-child(3) .f22")
+    WebElement dgs3; //Display diesel level gas status third row
+    
+    @FindBy(how = How.CSS, using = ".ng-star-inserted:nth-child(3) .pr3")
+    WebElement dgs3g; //Display diesel level gas status third row
    
     
     
@@ -272,12 +292,20 @@ public class Telecomobj extends TestBase
       //print alert count for power outage
       log.info("alerts count for power outage:-" +alpowerout.getText());
       
+      //Diesel level status
+      //display diesel level status 
+      log.info("gal Diesel Consumption value is:-" +dls.getText());
+      //display diesel level status first row 
+      String dgs1s =dgs1.getText(); String dgs1gs =dgs1g.getText();
+      log.info("Diesel level status for " +dgs1s +" Dg Status " +dgs1gs);
       
+      //display diesel level status second row 
+      String dgs2s =dgs2.getText(); String dgs2gs =dgs2g.getText();
+      log.info("Diesel level status for " +dgs2s +" Dg Status " +dgs2gs);
       
-      
-      
-      
-      
+    //display diesel level status third row 
+      String dgs3s =dgs3.getText(); String dgs3gs =dgs1g.getText();
+      log.info("Diesel level status for " +dgs3s +" Dg Status " +dgs3gs);
       
       
       

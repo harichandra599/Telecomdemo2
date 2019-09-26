@@ -3737,3 +3737,44 @@
 2019-09-23 22:47:15 INFO  Telecomobj:172 - Status of health under 6-8 hours :-16.67%
 2019-09-23 22:47:15 INFO  Telecomopr:33 - <===========Ended Telecom operations===========> 
 2019-09-23 22:47:15 INFO  TestBase:175 - browser closed
+2019-09-26 23:16:08 INFO  TestBase:115 - creating object of chrome
+2019-09-26 23:16:32 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-09-26 23:16:48 INFO  Telecomopr:31 - <===========Starting Telecom operations===========>
+2019-09-26 23:16:53 INFO  Telecomobj:197 - Telecom Dashoard displayed
+2019-09-26 23:16:58 INFO  Telecomobj:202 - Dash board main menu button clicked successfully
+2019-09-26 23:17:04 INFO  Telecomobj:206 - Sites cliked successfully on left Menu
+2019-09-26 23:17:09 INFO  Telecomobj:211 - Assets cliked successfully on left Menu
+2019-09-26 23:17:14 INFO  Telecomobj:215 - Settings cliked successfully on left Menu
+2019-09-26 23:17:22 INFO  Telecomobj:223 - page navigiated to site results
+2019-09-26 23:17:27 INFO  Telecomobj:227 - page navigiated to home page
+2019-09-26 23:17:33 INFO  Telecomobj:230 - Site locations count is:- 4
+2019-09-26 23:17:38 INFO  Telecomobj:235 - page navigiated to hvac results
+2019-09-26 23:17:43 INFO  Telecomobj:239 - page navigiated to home page
+2019-09-26 23:17:48 INFO  Telecomobj:242 - Hvac count is:- 8
+2019-09-26 23:17:53 INFO  Telecomobj:245 - needs attention count under HVAC status is :- 5
+2019-09-26 23:17:53 INFO  Telecomobj:247 - working condition under HVAC status is:- 3
+2019-09-26 23:17:53 INFO  Telecomobj:249 - needs attention count under main Status is:- 2
+2019-09-26 23:17:54 INFO  Telecomobj:251 - working condition count under main Status is:- 1
+2019-09-26 23:17:54 INFO  Telecomobj:253 - Non Responsive count under Alerts:- 1
+2019-09-26 23:17:54 INFO  Telecomobj:255 - Low battery count under Alerts:- 1
+2019-09-26 23:17:54 INFO  Telecomobj:257 - Need Maintenance count under Alerts:- 2
+2019-09-26 23:17:54 INFO  Telecomobj:259 - New Sites count  under Alerts:- 2
+2019-09-26 23:17:54 INFO  Telecomobj:261 - Power Outage count under Alerts:- 0
+2019-09-26 23:17:54 INFO  Telecomobj:264 - Battery bank utilization in hours :-0hours
+2019-09-26 23:17:54 INFO  Telecomobj:266 - Status of health under 0-2 hours :-83.33%
+2019-09-26 23:17:54 INFO  Telecomobj:268 - Status of health under 3-5 hours :-0%
+2019-09-26 23:17:54 INFO  Telecomobj:270 - Status of health under 6-8 hours :-16.67%
+2019-09-26 23:17:54 INFO  Telecomobj:275 - 16.67%charge for 1 Battery banks
+2019-09-26 23:17:54 INFO  Telecomobj:278 - 83.33%charge for 5 Battery banks
+2019-09-26 23:17:54 INFO  Telecomobj:281 - 83.33%charge for 5 Battery banks
+2019-09-26 23:17:54 INFO  Telecomobj:285 - alerts count for Non responsive:-1
+2019-09-26 23:17:54 INFO  Telecomobj:287 - alerts count for Low battery:-1
+2019-09-26 23:17:54 INFO  Telecomobj:289 - alerts count for need maintenance:-2
+2019-09-26 23:17:54 INFO  Telecomobj:291 - alerts count for new sites:-2
+2019-09-26 23:17:54 INFO  Telecomobj:293 - alerts count for power outage:-0
+2019-09-26 23:17:54 INFO  Telecomobj:297 - gal Diesel Consumption value is:-0
+2019-09-26 23:17:54 INFO  Telecomobj:300 - Diesel level status for 3Dg Status 0-20 Gal
+2019-09-26 23:17:54 INFO  Telecomobj:304 - Diesel level status for 0Dg Status 20-30 Gal
+2019-09-26 23:17:55 INFO  Telecomobj:308 - Diesel level status for 0Dg Status 0-20 Gal
+2019-09-26 23:17:55 INFO  Telecomopr:33 - <===========Ended Telecom operations===========> 
+2019-09-26 23:17:55 INFO  TestBase:175 - browser closed
