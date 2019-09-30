@@ -3778,3 +3778,13 @@
 2019-09-26 23:17:55 INFO  Telecomobj:308 - Diesel level status for 0Dg Status 0-20 Gal
 2019-09-26 23:17:55 INFO  Telecomopr:33 - <===========Ended Telecom operations===========> 
 2019-09-26 23:17:55 INFO  TestBase:175 - browser closed
+2019-09-30 15:07:59 INFO  TestBase:115 - creating object of chrome
+2019-09-30 15:08:17 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-09-30 15:08:25 INFO  Telecom_Login:39 - <===========Starting Telecom user login operarions===========> 
+2019-09-30 15:08:30 INFO  Telecom_Login_obj:45 - Entered user name dharmendra.pandit@techolution.com and object is [[ChromeDriver: chrome on XP (ea87acce025ffbe4d0eaecb017303bb9)] -> name: username]
+2019-09-30 15:08:30 INFO  Telecom_Login_obj:46 - <===========Hi User name entered successfully!===========> 
+2019-09-30 15:08:30 INFO  Telecom_Login_obj:48 - Entered password empty123 and object is [[ChromeDriver: chrome on XP (ea87acce025ffbe4d0eaecb017303bb9)] -> name: password]
+2019-09-30 15:08:30 INFO  Telecom_Login_obj:49 - <===========password entered successfully!===========> 
+2019-09-30 15:08:43 INFO  Telecom_Login_obj:52 - <===========Login button clicked successfully!===========> 
+2019-09-30 15:08:43 INFO  Telecom_Login:42 - <===========Ended Telecom user login operations===========> 
+2019-09-30 15:08:43 INFO  TestBase:175 - browser closed

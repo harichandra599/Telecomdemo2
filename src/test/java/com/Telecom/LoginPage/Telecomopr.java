@@ -29,6 +29,7 @@ public class Telecomopr extends TestBase
 		  tel=new Telecomobj(driver);
 		  Thread.sleep(3000);
 		  log.info("<===========Starting Telecom operations===========>");
+		  
 		  tel.telecomoperations();
 		  log.info("<===========Ended Telecom operations===========> ");
 		  Sendmail sndmail=new Sendmail();
