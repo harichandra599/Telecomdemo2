@@ -7582,3 +7582,6 @@
 2019-09-30 15:08:43 INFO  Telecom_Login:42 - <===========Ended Telecom user login operations===========> 
 2019-09-30 15:08:43 INFO  TestBase:175 - browser closed
 >>>>>>> 984608d3ecc4b7333190bcc96505b9757807ec8a
+2019-09-30 23:53:30 INFO  TestBase:115 - creating object of chrome
+2019-09-30 19:30:12 INFO  TestBase:115 - creating object of chrome
+2019-09-30 19:36:40 INFO  TestBase:115 - creating object of chrome
