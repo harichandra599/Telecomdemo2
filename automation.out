@@ -3778,3 +3778,14 @@
 2019-09-26 23:17:55 INFO  Telecomobj:308 - Diesel level status for 0Dg Status 0-20 Gal
 2019-09-26 23:17:55 INFO  Telecomopr:33 - <===========Ended Telecom operations===========> 
 2019-09-26 23:17:55 INFO  TestBase:175 - browser closed
+2019-09-26 23:37:49 INFO  TestBase:115 - creating object of chrome
+2019-09-26 23:38:05 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-09-26 23:38:34 INFO  Telecomopr:31 - <===========Starting Telecom operations===========>
+2019-09-26 23:38:39 INFO  Telecomobj:197 - Telecom Dashoard displayed
+2019-09-26 23:39:38 INFO  TestBase:115 - creating object of chrome
+2019-09-26 23:39:47 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-09-26 23:40:12 INFO  Telecomopr:31 - <===========Starting Telecom operations===========>
+2019-09-26 23:40:17 INFO  Telecomobj:197 - Telecom Dashoard displayed
+2019-09-28 22:44:18 INFO  TestBase:115 - creating object of chrome
+2019-09-28 22:44:32 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-09-28 22:44:40 INFO  Telecomopr:31 - <===========Starting Telecom operations===========>
