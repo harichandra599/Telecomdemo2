@@ -1,4 +1,5 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: harish
 Class-Path: selenium-java-3.141.59.jar selenium-api-3.141.59.jar selen
  ium-chrome-driver-3.141.59.jar selenium-edge-driver-3.141.59.jar sele
@@ -29,4 +30,9 @@ Class-Path: selenium-java-3.141.59.jar selenium-api-3.141.59.jar selen
 Build-Jdk: 1.8.0_51
 Created-By: Maven Integration for Eclipse
 Main-Class: main.java.util.MainTestNG
+=======
+Built-By: Hari
+Build-Jdk: 1.8.0_181
+Created-By: Maven Integration for Eclipse
+>>>>>>> 984608d3ecc4b7333190bcc96505b9757807ec8a
 
