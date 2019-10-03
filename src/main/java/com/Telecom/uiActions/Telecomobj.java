@@ -25,7 +25,14 @@ public class Telecomobj extends TestBase
     	 this.driver=driver;
     	 PageFactory.initElements(driver, this);
     }
+    @FindBy(how = How.NAME, using = "username")
+    WebElement tusername; //Web Element and id For user name 
     
+    @FindBy(how = How.NAME, using = "password")
+    WebElement tpassword; //Web Element and id For user name 
+    
+    @FindBy(how = How.XPATH, using = "//button[@type='submit']")
+    WebElement loginbutton; //Web Element  For login button click 
 
     @FindBy(how = How.CSS, using = ".text-dark-cerulean")
     WebElement dbmainmenubtn; //Web Element and css For main menu button
@@ -154,45 +161,19 @@ public class Telecomobj extends TestBase
     
     @FindBy(how = How.CSS, using = ".ng-star-inserted:nth-child(3) .pr3")
     WebElement dgs3g; //Display diesel level gas status third row
-   
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+     
+     
     public void telecomoperations() throws Exception
     {
-  	  //enter user name 
+  	  //enter user name  
+      Thread.sleep(5000);
+      tusername.sendKeys("Dharmendra.pandit@techolution.com");
+      log.info("<=========== User name entered successfully!===========> ");
+      tpassword.sendKeys("empty123");
+  	  log.info("<===========password entered successfully!===========> ");
+  	  Thread.sleep(5000);
+      loginbutton.click();
+      log.info("<===========Login button clicked successfully!===========> "); 	
   	  Thread.sleep(5000);
   	  log.info("Telecom Dashoard displayed");
   	  //Click on site locations 

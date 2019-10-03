@@ -43,7 +43,7 @@ public class Telecom_Login_obj
   	  Thread.sleep(5000);
   	  tusername.sendKeys(username);
   	  log.info("Entered user name " +username+ " and object is "+tusername.toString());
-  	  log.info("<===========Hi User name entered successfully!===========> ");
+  	  log.info("<=========== User name entered successfully!===========> ");
   	  tpassword.sendKeys(password);
   	  log.info("Entered password " +password+ " and object is "+tpassword.toString());
 	  log.info("<===========password entered successfully!===========> ");

@@ -7585,3 +7585,10 @@
 2019-09-30 23:53:30 INFO  TestBase:115 - creating object of chrome
 2019-09-30 19:30:12 INFO  TestBase:115 - creating object of chrome
 2019-09-30 19:36:40 INFO  TestBase:115 - creating object of chrome
+2019-10-03 14:43:27 INFO  TestBase:115 - creating object of chrome
+2019-10-03 14:43:32 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-03 14:43:40 INFO  Telecomopr:31 - <===========Starting Telecom operations===========>
+2019-10-03 14:43:46 INFO  Telecomobj:171 - <=========== User name entered successfully!===========> 
+2019-10-03 14:43:46 INFO  Telecomobj:173 - <===========password entered successfully!===========> 
+2019-10-03 14:43:52 INFO  Telecomobj:176 - <===========Login button clicked successfully!===========> 
+2019-10-03 14:43:57 INFO  Telecomobj:178 - Telecom Dashoard displayed

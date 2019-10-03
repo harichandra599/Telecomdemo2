@@ -1,18 +1,20 @@
 package com.Telecom.LoginPage;
 
 import java.lang.reflect.Method;
+
 import org.apache.log4j.Logger;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import com.Telecom.testBase.TestBase;
-import com.Telecom.uiActions.Telecomobj;
+import com.Telecom.uiActions.Siteobj;
 import com.relevantcodes.extentreports.LogStatus;
-public class Telecomopr extends TestBase
+
+public class Sites_Opr extends TestBase
 {
-	  Telecomobj tel;
+	Siteobj site;
 	 
-	  public static final Logger log=Logger.getLogger(Telecomopr.class.getName());
+	  public static final Logger log=Logger.getLogger(Sites_Opr.class.getName());
 	  
 	  @BeforeMethod
 	  public void openbrowser(Method result) throws Exception
@@ -23,14 +25,13 @@ public class Telecomopr extends TestBase
 		  wait_for_page_load(5000);
 	  }
 	  @Test()
-	  public void telecomoperations() throws Exception 
+	  public void sitesoperations() throws Exception 
 	  { 
-		  tel=new Telecomobj(driver);
+		  site=new Siteobj(driver);
 		  Thread.sleep(3000);
-		  log.info("<===========Starting Telecom operations===========>");
-		  
-		  tel.telecomoperations();
-		  log.info("<===========Ended Telecom operations===========> ");
+		  log.info("<===========Starting Sites operations===========>");
+		  site.sitesoperations();
+		  log.info("<===========Ended Sites operations===========> ");
 		  Sendmail sndmail=new Sendmail();
 		  sndmail.SendAttachment();
 		  

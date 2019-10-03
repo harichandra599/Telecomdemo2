@@ -36,16 +36,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/techolution/Pictures/MT Demo/Telecomdemo2/Jars/client-combined-3.14.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/techolution/Pictures/MT Demo/Telecomdemo2/Jars/poi-bin-4.1.0-20190412.zip"/>
-	<classpathentry kind="lib" path="C:/Users/techolution/Pictures/MT Demo/Telecomdemo2/Jars/selenium-server-standalone-3.4.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/techolution/Pictures/MT Demo/Telecomdemo2/Jars/sqljdbc-2.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/techolution/Pictures/MT Demo/Telecomdemo2/Jars/testng-6.14.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/techolution/Pictures/MT Demo/Telecomdemo2/Referenced Libraries/activation.jar"/>
-	<classpathentry kind="lib" path="C:/Users/techolution/Pictures/MT Demo/Telecomdemo2/Referenced Libraries/client-combined-3.14.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/techolution/Pictures/MT Demo/Telecomdemo2/Referenced Libraries/jxl-2.6.12.jar"/>
-	<classpathentry kind="lib" path="C:/Users/techolution/Pictures/MT Demo/Telecomdemo2/Referenced Libraries/mail.jar"/>
-	<classpathentry kind="lib" path="C:/Users/techolution/Pictures/MT Demo/Telecomdemo2/Referenced Libraries/selenium-server-standalone-3.14.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/techolution/Pictures/MT Demo/Telecomdemo2/Referenced Libraries/testng-6.14.3.jar"/>
+	<classpathentry kind="lib" path="I:/hari/Automation/FrameworkPOC/Referenced Libraries/activation.jar"/>
+	<classpathentry kind="lib" path="I:/hari/Automation/FrameworkPOC/Referenced Libraries/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="I:/hari/Automation/FrameworkPOC/Referenced Libraries/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="I:/hari/Automation/FrameworkPOC/Referenced Libraries/mail.jar"/>
+	<classpathentry kind="lib" path="I:/hari/Automation/FrameworkPOC/Referenced Libraries/selenium-server-standalone-3.14.0.jar"/>
+	<classpathentry kind="lib" path="I:/hari/Automation/FrameworkPOC/Referenced Libraries/testng-6.14.3.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
