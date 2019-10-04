@@ -7592,3 +7592,150 @@
 2019-10-03 14:43:46 INFO  Telecomobj:173 - <===========password entered successfully!===========> 
 2019-10-03 14:43:52 INFO  Telecomobj:176 - <===========Login button clicked successfully!===========> 
 2019-10-03 14:43:57 INFO  Telecomobj:178 - Telecom Dashoard displayed
+2019-10-04 20:35:01 INFO  TestBase:115 - creating object of chrome
+2019-10-04 20:35:22 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4200
+2019-10-04 20:35:28 INFO  Sites_Opr:32 - <===========Starting Sites operations===========>
+2019-10-04 20:35:38 INFO  Telecomobj:95 - <=========== User name entered successfully!===========> 
+2019-10-04 20:35:38 INFO  Telecomobj:98 - <===========password entered successfully!===========> 
+2019-10-04 20:35:44 INFO  Telecomobj:102 - <===========Login button clicked successfully!===========> 
+2019-10-04 20:35:49 INFO  Telecomobj:104 - Telecom Dashoard displayed
+2019-10-04 20:35:50 INFO  TestBase:175 - browser closed
+2019-10-04 20:39:34 INFO  TestBase:115 - creating object of chrome
+2019-10-04 20:39:38 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-04 20:39:46 INFO  Sites_Opr:32 - <===========Starting Sites operations===========>
+2019-10-04 20:39:51 INFO  Telecomobj:95 - <=========== User name entered successfully!===========> 
+2019-10-04 20:39:51 INFO  Telecomobj:98 - <===========password entered successfully!===========> 
+2019-10-04 20:39:58 INFO  Telecomobj:102 - <===========Login button clicked successfully!===========> 
+2019-10-04 20:40:03 INFO  Telecomobj:104 - Telecom Dashoard displayed
+2019-10-04 20:40:56 INFO  TestBase:115 - creating object of chrome
+2019-10-04 20:41:02 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-04 20:41:10 INFO  Sites_Opr:32 - <===========Starting Sites operations===========>
+2019-10-04 20:41:15 INFO  Telecomobj:95 - <=========== User name entered successfully!===========> 
+2019-10-04 20:41:15 INFO  Telecomobj:98 - <===========password entered successfully!===========> 
+2019-10-04 20:41:25 INFO  Telecomobj:102 - <===========Login button clicked successfully!===========> 
+2019-10-04 20:41:30 INFO  Telecomobj:104 - Telecom Dashoard displayed
+2019-10-04 20:41:31 INFO  Telecomobj:107 - main menu button clicked successfully
+2019-10-04 20:41:31 INFO  Telecomobj:110 - Sites clicked successfully on left menu
+2019-10-04 20:41:33 INFO  Telecomobj:112 - BTS Name is :- Curepipe
+2019-10-04 20:41:33 INFO  Telecomobj:114 - Location is :-Black River Gorges
+2019-10-04 20:41:33 INFO  Telecomobj:116 - alerts count is :-2
+2019-10-04 20:42:31 INFO  TestBase:115 - creating object of chrome
+2019-10-04 20:42:34 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-04 20:42:42 INFO  Sites_Opr:32 - <===========Starting Sites operations===========>
+2019-10-04 20:42:47 INFO  Telecomobj:95 - <=========== User name entered successfully!===========> 
+2019-10-04 20:42:47 INFO  Telecomobj:98 - <===========password entered successfully!===========> 
+2019-10-04 20:42:57 INFO  Telecomobj:102 - <===========Login button clicked successfully!===========> 
+2019-10-04 20:43:02 INFO  Telecomobj:104 - Telecom Dashoard displayed
+2019-10-04 20:43:02 INFO  Telecomobj:107 - main menu button clicked successfully
+2019-10-04 20:43:02 INFO  Telecomobj:110 - Sites clicked successfully on left menu
+2019-10-04 20:43:04 INFO  Telecomobj:112 - BTS Name is :- Curepipe
+2019-10-04 20:43:04 INFO  Telecomobj:114 - Location is :-Black River Gorges
+2019-10-04 20:43:04 INFO  Telecomobj:116 - alerts count is :-2
+2019-10-04 20:45:36 INFO  TestBase:115 - creating object of chrome
+2019-10-04 20:45:39 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-04 20:45:46 INFO  Sites_Opr:32 - <===========Starting Sites operations===========>
+2019-10-04 20:45:52 INFO  Telecomobj:95 - <=========== User name entered successfully!===========> 
+2019-10-04 20:45:52 INFO  Telecomobj:98 - <===========password entered successfully!===========> 
+2019-10-04 20:46:01 INFO  Telecomobj:102 - <===========Login button clicked successfully!===========> 
+2019-10-04 20:46:06 INFO  Telecomobj:104 - Telecom Dashoard displayed
+2019-10-04 20:46:07 INFO  Telecomobj:107 - main menu button clicked successfully
+2019-10-04 20:46:07 INFO  Telecomobj:110 - Sites clicked successfully on left menu
+2019-10-04 20:46:09 INFO  Telecomobj:112 - BTS Name is :- Curepipe
+2019-10-04 20:46:09 INFO  Telecomobj:114 - Location is :-Black River Gorges
+2019-10-04 20:46:09 INFO  Telecomobj:116 - alerts count is :-2
+2019-10-04 20:46:09 INFO  Telecomobj:118 -  Site Status is :-Active
+2019-10-04 20:46:09 INFO  Telecomobj:120 - Main line status is :-Active
+2019-10-04 20:46:09 INFO  Telecomobj:122 - BB status is :-Active
+2019-10-04 20:46:09 INFO  Telecomobj:124 - DG Status is :-Inactive
+2019-10-04 20:46:09 INFO  Telecomobj:126 - Energy consumption is :-1913 KwH
+2019-10-04 20:46:09 INFO  Telecomobj:128 - AC status left value is :-1
+2019-10-04 20:46:09 INFO  Telecomobj:130 - AC status Right value is :-0
+2019-10-04 20:46:09 INFO  Telecomobj:132 - Room Temp is :--
+2019-10-04 20:46:09 INFO  Telecomobj:134 -  MCB Down value is :-20
+2019-10-04 20:46:09 INFO  Sites_Opr:34 - <===========Ended Sites operations===========> 
+2019-10-04 20:46:53 INFO  TestBase:175 - browser closed
+2019-10-04 21:10:14 INFO  TestBase:115 - creating object of chrome
+2019-10-04 21:10:17 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-04 21:10:31 INFO  Sites_Opr:32 - <===========Starting Sites operations===========>
+2019-10-04 21:10:36 INFO  Telecomobj:123 - <=========== User name entered successfully!===========> 
+2019-10-04 21:10:37 INFO  Telecomobj:126 - <===========password entered successfully!===========> 
+2019-10-04 21:10:49 INFO  Telecomobj:130 - <===========Login button clicked successfully!===========> 
+2019-10-04 21:10:54 INFO  Telecomobj:132 - Telecom Dashoard displayed
+2019-10-04 21:10:54 INFO  Telecomobj:135 - main menu button clicked successfully
+2019-10-04 21:10:55 INFO  Telecomobj:138 - Sites clicked successfully on left menu
+2019-10-04 21:10:57 INFO  Telecomobj:140 - BTS Name is :- Curepipe
+2019-10-04 21:10:57 INFO  Telecomobj:142 - Location is :-Black River Gorges
+2019-10-04 21:10:57 INFO  Telecomobj:144 - alerts count is :-2
+2019-10-04 21:10:57 INFO  Telecomobj:146 -  Site Status is :-Active
+2019-10-04 21:10:57 INFO  Telecomobj:148 - Main line status is :-Active
+2019-10-04 21:10:57 INFO  Telecomobj:150 - BB status is :-Active
+2019-10-04 21:10:57 INFO  Telecomobj:152 - DG Status is :-Inactive
+2019-10-04 21:10:58 INFO  Telecomobj:154 - Energy consumption is :-1774 KwH
+2019-10-04 21:10:58 INFO  Telecomobj:156 - AC status left value is :-1
+2019-10-04 21:10:58 INFO  Telecomobj:158 - AC status Right value is :-0
+2019-10-04 21:10:58 INFO  Telecomobj:160 - Room Temp is :--
+2019-10-04 21:10:58 INFO  Telecomobj:162 -  MCB Down value is :-21
+2019-10-04 21:10:58 INFO  Telecomobj:164 - <===========Sites Second Row Data===========> 
+2019-10-04 21:10:58 INFO  Telecomobj:166 - BTS Name is :- Curepipe
+2019-10-04 21:10:58 INFO  Telecomobj:168 - Location is :-Le Morne
+2019-10-04 21:10:58 INFO  Telecomobj:170 - alerts count is :-2
+2019-10-04 21:10:58 INFO  Telecomobj:172 -  Site Status is :-Inactive
+2019-10-04 21:10:58 INFO  Telecomobj:174 - Main line status is :-Active
+2019-10-04 21:10:58 INFO  Telecomobj:176 - BB status is :-Active
+2019-10-04 21:10:58 INFO  Telecomobj:178 - DG Status is :-Inactive
+2019-10-04 21:10:58 INFO  Telecomobj:180 - Energy consumption is :-0 KwH
+2019-10-04 21:10:58 INFO  Telecomobj:182 - AC status left value is :-1
+2019-10-04 21:10:59 INFO  Telecomobj:184 - AC status Right value is :-0
+2019-10-04 21:10:59 INFO  Telecomobj:186 - Room Temp is :--
+2019-10-04 21:10:59 INFO  Telecomobj:188 -  MCB Down value is :-6
+2019-10-04 21:10:59 INFO  Sites_Opr:34 - <===========Ended Sites operations===========> 
+2019-10-04 21:11:42 INFO  TestBase:175 - browser closed
+2019-10-04 21:18:25 INFO  TestBase:115 - creating object of chrome
+2019-10-04 21:18:28 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-04 21:18:38 INFO  Sites_Opr:32 - <===========Starting Sites operations===========>
+2019-10-04 21:18:43 INFO  Telecomobj:158 - <=========== User name entered successfully!===========> 
+2019-10-04 21:18:43 INFO  Telecomobj:161 - <===========password entered successfully!===========> 
+2019-10-04 21:18:56 INFO  Telecomobj:165 - <===========Login button clicked successfully!===========> 
+2019-10-04 21:19:01 INFO  Telecomobj:167 - Telecom Dashoard displayed
+2019-10-04 21:19:01 INFO  Telecomobj:170 - main menu button clicked successfully
+2019-10-04 21:19:01 INFO  Telecomobj:173 - Sites clicked successfully on left menu
+2019-10-04 21:19:03 INFO  Telecomobj:175 - BTS Name is :- Curepipe
+2019-10-04 21:19:03 INFO  Telecomobj:177 - Location is :-Black River Gorges
+2019-10-04 21:19:03 INFO  Telecomobj:179 - alerts count is :-2
+2019-10-04 21:19:03 INFO  Telecomobj:181 -  Site Status is :-Active
+2019-10-04 21:19:03 INFO  Telecomobj:183 - Main line status is :-Active
+2019-10-04 21:19:04 INFO  Telecomobj:185 - BB status is :-Active
+2019-10-04 21:19:04 INFO  Telecomobj:187 - DG Status is :-Inactive
+2019-10-04 21:19:04 INFO  Telecomobj:189 - Energy consumption is :-1590 KwH
+2019-10-04 21:19:04 INFO  Telecomobj:191 - AC status left value is :-1
+2019-10-04 21:19:04 INFO  Telecomobj:193 - AC status Right value is :-0
+2019-10-04 21:19:04 INFO  Telecomobj:195 - Room Temp is :--
+2019-10-04 21:19:04 INFO  Telecomobj:197 -  MCB Down value is :-16
+2019-10-04 21:19:04 INFO  Telecomobj:199 - <===========Sites Second Row Data===========> 
+2019-10-04 21:19:04 INFO  Telecomobj:201 - BTS Name is :- Curepipe
+2019-10-04 21:19:04 INFO  Telecomobj:203 - Location is :-Le Morne
+2019-10-04 21:19:04 INFO  Telecomobj:205 - alerts count is :-2
+2019-10-04 21:19:04 INFO  Telecomobj:207 -  Site Status is :-Inactive
+2019-10-04 21:19:04 INFO  Telecomobj:209 - Main line status is :-Active
+2019-10-04 21:19:04 INFO  Telecomobj:211 - BB status is :-Active
+2019-10-04 21:19:04 INFO  Telecomobj:213 - DG Status is :-Inactive
+2019-10-04 21:19:04 INFO  Telecomobj:215 - Energy consumption is :-0 KwH
+2019-10-04 21:19:05 INFO  Telecomobj:217 - AC status left value is :-0
+2019-10-04 21:19:05 INFO  Telecomobj:219 - AC status Right value is :-1
+2019-10-04 21:19:05 INFO  Telecomobj:221 - Room Temp is :--
+2019-10-04 21:19:05 INFO  Telecomobj:223 -  MCB Down value is :-2
+2019-10-04 21:19:05 INFO  Telecomobj:226 - <===========Sites Third Row Data===========> 
+2019-10-04 21:19:05 INFO  Telecomobj:228 - BTS Name is :- Curepipe
+2019-10-04 21:19:05 INFO  Telecomobj:230 - Location is :-Trou lac biches
+2019-10-04 21:19:05 INFO  Telecomobj:232 - alerts count is :-2
+2019-10-04 21:19:05 INFO  Telecomobj:234 -  Site Status is :-Inactive
+2019-10-04 21:19:05 INFO  Telecomobj:236 - Main line status is :-Active
+2019-10-04 21:19:05 INFO  Telecomobj:238 - BB status is :-Inactive
+2019-10-04 21:19:05 INFO  Telecomobj:240 - DG Status is :-Active
+2019-10-04 21:19:05 INFO  Telecomobj:242 - Energy consumption is :-0 KwH
+2019-10-04 21:19:05 INFO  Telecomobj:244 - AC status left value is :-0
+2019-10-04 21:19:05 INFO  Telecomobj:246 - AC status Right value is :-1
+2019-10-04 21:19:06 INFO  Telecomobj:248 - Room Temp is :--
+2019-10-04 21:19:06 INFO  Telecomobj:250 -  MCB Down value is :-12
+2019-10-04 21:19:06 INFO  Sites_Opr:34 - <===========Ended Sites operations===========> 
+2019-10-04 21:19:48 INFO  TestBase:175 - browser closed

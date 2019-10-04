@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Telecom.LoginPage.Telecomopr">
+      <class name="com.Telecom.LoginPage.Sites_Opr">
         <methods>
-          <include name="telecomoperations"/>
-          <include name="openbrowser"/>
           <include name="browserclose"/>
+          <include name="openbrowser"/>
+          <include name="sitesoperations"/>
         </methods>
-      </class> <!-- com.Telecom.LoginPage.Telecomopr -->
+      </class> <!-- com.Telecom.LoginPage.Sites_Opr -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
