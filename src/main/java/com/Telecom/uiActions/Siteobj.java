@@ -6,6 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
 
 import com.Telecom.testBase.TestBase;
@@ -72,6 +73,14 @@ public class Siteobj extends TestBase
     
     @FindBy(how = How.CSS, using = ".bg-white:nth-child(1) .pl4:nth-child(7) .ng-star-inserted")
     WebElement mcbdown1; //Web Element  For MCB Down 
+    
+    //Elements for click on location
+    @FindBy(how = How.XPATH, using = "//div[2]/div/p")
+    WebElement btsname11; //Web Element  For BTS Name 
+    
+    @FindBy(how = How.CSS, using = ".f18:nth-child(2)")
+    WebElement location11; //Web Element For location
+    
     //Sites Second row web elements 
     @FindBy(how = How.CSS, using = ".bg-white:nth-child(2) .col1 .f16") 
     WebElement BTSname2; //Web Element  For BTS Name  
@@ -195,6 +204,27 @@ public class Siteobj extends TestBase
   	  log.info("Room Temp is :-"+roomtemp1.getText());
   	  //Display MCB Down
   	  log.info(" MCB Down value is :-"+mcbdown1.getText());
+  	  //click on site location 1
+  	  BTSname1.click();
+  	  log.info("first site location clicked successfully");
+  	  Thread.sleep(4000);
+  	  //Validate Site name
+  	  System.out.println(btsname11.getText());
+  	  System.out.println(BTSname1.getText());
+      Assert.assertEquals(BTSname1.getText(),btsname11.getText());
+      log.info("Site name validated successfully");
+      Assert.assertEquals(location1.getText(), location11.getText());
+      log.info("Site location validated successfully");
+      
+
+  	  
+  	  
+  	  
+  	  
+  	  
+  	  
+  	  
+  	  
   	  //Display site second row data
   	  log.info("<===========Sites Second Row Data===========> ");
   	  //Display BTS Name in Second Row
