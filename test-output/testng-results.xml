@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="83473" started-at="2019-10-04T15:48:25Z" finished-at="2019-10-04T15:49:49Z">
+  <suite name="Default suite" duration-ms="57862" started-at="2019-10-06T16:24:49Z" finished-at="2019-10-06T16:25:46Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="83473" started-at="2019-10-04T15:48:25Z" finished-at="2019-10-04T15:49:49Z">
-      <class name="com.Telecom.LoginPage.Sites_Opr">
-        <test-method status="PASS" signature="openbrowser(java.lang.reflect.Method)[pri:0, instance:com.Telecom.LoginPage.Sites_Opr@f2f2cc1]" name="openbrowser" is-config="true" duration-ms="9590" started-at="2019-10-04T15:48:25Z" finished-at="2019-10-04T15:48:35Z">
+    <test name="Default test" duration-ms="57862" started-at="2019-10-06T16:24:49Z" finished-at="2019-10-06T16:25:46Z">
+      <class name="com.Telecom.LoginPage.Sites_MCB_Opr">
+        <test-method status="PASS" signature="openbrowser(java.lang.reflect.Method)[pri:0, instance:com.Telecom.LoginPage.Sites_MCB_Opr@400cff1a]" name="openbrowser" is-config="true" duration-ms="15036" started-at="2019-10-06T21:54:49Z" finished-at="2019-10-06T21:55:04Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void com.Telecom.LoginPage.Sites_Opr.sitesoperations() throws java.lang.Exception]]>
+                <![CDATA[public void com.Telecom.LoginPage.Sites_MCB_Opr.sitesoperations() throws java.lang.Exception]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openbrowser -->
-        <test-method status="PASS" signature="sitesoperations()[pri:0, instance:com.Telecom.LoginPage.Sites_Opr@f2f2cc1]" name="sitesoperations" duration-ms="73360" started-at="2019-10-04T15:48:35Z" finished-at="2019-10-04T15:49:48Z">
+        <test-method status="PASS" signature="sitesoperations()[pri:0, instance:com.Telecom.LoginPage.Sites_MCB_Opr@400cff1a]" name="sitesoperations" duration-ms="39756" started-at="2019-10-06T21:55:04Z" finished-at="2019-10-06T21:55:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sitesoperations -->
-        <test-method status="PASS" signature="browserclose()[pri:0, instance:com.Telecom.LoginPage.Sites_Opr@f2f2cc1]" name="browserclose" is-config="true" duration-ms="491" started-at="2019-10-04T15:49:48Z" finished-at="2019-10-04T15:49:49Z">
+        <test-method status="PASS" signature="browserclose()[pri:0, instance:com.Telecom.LoginPage.Sites_MCB_Opr@400cff1a]" name="browserclose" is-config="true" duration-ms="2974" started-at="2019-10-06T21:55:43Z" finished-at="2019-10-06T21:55:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserclose -->
-      </class> <!-- com.Telecom.LoginPage.Sites_Opr -->
+      </class> <!-- com.Telecom.LoginPage.Sites_MCB_Opr -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
