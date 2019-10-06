@@ -7807,6 +7807,7 @@
 2019-10-05 20:20:00 INFO  Siteobj:204 - Room Temp is :--
 2019-10-05 20:20:00 INFO  Siteobj:206 -  MCB Down value is :-16
 2019-10-05 20:20:01 INFO  Siteobj:209 - first site location clicked successfully
+<<<<<<< HEAD
 2019-10-06 14:40:52 INFO  TestBase:115 - creating object of chrome
 2019-10-06 14:41:13 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
 2019-10-06 14:41:27 INFO  Site_BBdetails_Opr:30 - <===========Starting Sites_BB detaisls operations===========>
@@ -8127,3 +8128,5 @@
 2019-10-06 21:55:43 INFO  Site_MCB_obj:141 - count of MCB's On :-23
 2019-10-06 21:55:43 INFO  Sites_MCB_Opr:32 - <===========Ended MCB operations===========> 
 2019-10-06 21:55:44 INFO  TestBase:175 - browser closed
+=======
+>>>>>>> b7747671c909d42a2b11f77bffc729608ad4f28f
