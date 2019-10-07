@@ -6,11 +6,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
-
 import com.Telecom.testBase.TestBase;
-
-import junit.framework.Assert;
 
 public class Site_MCB_obj extends TestBase
 {

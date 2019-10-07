@@ -204,7 +204,7 @@ public class Siteobj extends TestBase
   	  log.info("Room Temp is :-"+roomtemp1.getText());
   	  //Display MCB Down
   	  log.info(" MCB Down value is :-"+mcbdown1.getText());
-<<<<<<< HEAD
+
   /*	  //click on site location 1
 =======
   	  //click on site location 1
@@ -218,21 +218,9 @@ public class Siteobj extends TestBase
       Assert.assertEquals(BTSname1.getText(),btsname11.getText());
       log.info("Site name validated successfully");
       Assert.assertEquals(location1.getText(), location11.getText());
-<<<<<<< HEAD
       log.info("Site location validated successfully");*/
-=======
       log.info("Site location validated successfully");
->>>>>>> b7747671c909d42a2b11f77bffc729608ad4f28f
-      
-
-  	  
-  	  
-  	  
-  	  
-  	  
-  	  
-  	  
-  	  
+  
   	  //Display site second row data
   	  log.info("<===========Sites Second Row Data===========> ");
   	  //Display BTS Name in Second Row
