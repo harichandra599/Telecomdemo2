@@ -7807,3 +7807,326 @@
 2019-10-05 20:20:00 INFO  Siteobj:204 - Room Temp is :--
 2019-10-05 20:20:00 INFO  Siteobj:206 -  MCB Down value is :-16
 2019-10-05 20:20:01 INFO  Siteobj:209 - first site location clicked successfully
+<<<<<<< HEAD
+2019-10-06 14:40:52 INFO  TestBase:115 - creating object of chrome
+2019-10-06 14:41:13 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 14:41:27 INFO  Site_BBdetails_Opr:30 - <===========Starting Sites_BB detaisls operations===========>
+2019-10-06 14:41:33 INFO  Site_BBdetails_obj:110 - <=========== User name entered successfully!===========> 
+2019-10-06 14:41:34 INFO  Site_BBdetails_obj:113 - <===========password entered successfully!===========> 
+2019-10-06 14:41:51 INFO  Site_BBdetails_obj:117 - <===========Login button clicked successfully!===========> 
+2019-10-06 14:41:56 INFO  Site_BBdetails_obj:119 - Telecom Dashoard displayed
+2019-10-06 14:41:56 INFO  Site_BBdetails_obj:122 - main menu button clicked successfully
+2019-10-06 14:41:57 INFO  Site_BBdetails_obj:125 - Sites clicked successfully on left menu
+2019-10-06 14:41:59 INFO  Site_BBdetails_obj:128 - BB Details button clicked successfully
+2019-10-06 14:42:00 INFO  Site_BBdetails_obj:130 - BTS Name is :-Curepipe
+2019-10-06 14:42:00 INFO  Site_BBdetails_obj:132 - Location name is :-Black River Gorges
+2019-10-06 14:42:01 INFO  TestBase:175 - browser closed
+2019-10-06 14:44:16 INFO  TestBase:115 - creating object of chrome
+2019-10-06 14:44:24 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 14:44:34 INFO  Site_BBdetails_Opr:30 - <===========Starting Sites_BB detaisls operations===========>
+2019-10-06 14:44:39 INFO  Site_BBdetails_obj:110 - <=========== User name entered successfully!===========> 
+2019-10-06 14:44:39 INFO  Site_BBdetails_obj:113 - <===========password entered successfully!===========> 
+2019-10-06 14:44:50 INFO  Site_BBdetails_obj:117 - <===========Login button clicked successfully!===========> 
+2019-10-06 14:44:55 INFO  Site_BBdetails_obj:119 - Telecom Dashoard displayed
+2019-10-06 14:44:55 INFO  Site_BBdetails_obj:122 - main menu button clicked successfully
+2019-10-06 14:44:56 INFO  Site_BBdetails_obj:125 - Sites clicked successfully on left menu
+2019-10-06 14:44:58 INFO  Site_BBdetails_obj:128 - BB Details button clicked successfully
+2019-10-06 14:44:58 INFO  Site_BBdetails_obj:130 - BTS Name is :-Curepipe
+2019-10-06 14:44:58 INFO  Site_BBdetails_obj:132 - Location name is :-Black River Gorges
+2019-10-06 14:44:58 INFO  Site_BBdetails_obj:134 - Count of Battery Banks is :-6
+2019-10-06 14:44:59 INFO  Site_BBdetails_obj:136 - Battery banks count below 50% is :-6
+2019-10-06 14:44:59 INFO  Site_BBdetails_obj:138 - Battery banks count 50% to 80% is :-2
+2019-10-06 14:44:59 INFO  Site_BBdetails_obj:140 - Battery baknks count above 80% is :--
+2019-10-06 14:44:59 INFO  Site_BBdetails_obj:143 - BB details expand popup clicked successfully
+2019-10-06 14:45:04 INFO  Site_BBdetails_Opr:32 - <===========Ended Sites_BB details operations===========> 
+2019-10-06 14:45:51 INFO  TestBase:175 - browser closed
+2019-10-06 14:59:07 INFO  TestBase:115 - creating object of chrome
+2019-10-06 14:59:16 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 14:59:24 INFO  Site_BBdetails_Opr:30 - <===========Starting Sites_BB detaisls operations===========>
+2019-10-06 14:59:30 INFO  Site_BBdetails_obj:113 - <=========== User name entered successfully!===========> 
+2019-10-06 14:59:31 INFO  Site_BBdetails_obj:116 - <===========password entered successfully!===========> 
+2019-10-06 14:59:44 INFO  Site_BBdetails_obj:120 - <===========Login button clicked successfully!===========> 
+2019-10-06 14:59:49 INFO  Site_BBdetails_obj:122 - Telecom Dashoard displayed
+2019-10-06 14:59:49 INFO  Site_BBdetails_obj:125 - main menu button clicked successfully
+2019-10-06 14:59:49 INFO  Site_BBdetails_obj:128 - Sites clicked successfully on left menu
+2019-10-06 14:59:51 INFO  Site_BBdetails_obj:131 - BB Details button clicked successfully
+2019-10-06 14:59:52 INFO  Site_BBdetails_obj:133 - BTS Name is :-Curepipe
+2019-10-06 14:59:52 INFO  Site_BBdetails_obj:135 - Location name is :-Black River Gorges
+2019-10-06 14:59:52 INFO  Site_BBdetails_obj:141 - Count of Battery Banks is :-6
+2019-10-06 14:59:52 INFO  Site_BBdetails_obj:143 - Battery banks count below 50% is :-6
+2019-10-06 14:59:52 INFO  Site_BBdetails_obj:145 - Battery banks count 50% to 80% is :-2
+2019-10-06 14:59:53 INFO  Site_BBdetails_obj:147 - Battery baknks count above 80% is :--
+2019-10-06 14:59:53 INFO  Site_BBdetails_obj:150 - BB details expand popup clicked successfully
+2019-10-06 15:00:01 INFO  TestBase:175 - browser closed
+2019-10-06 15:02:37 INFO  TestBase:115 - creating object of chrome
+2019-10-06 15:02:45 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 15:02:54 INFO  Site_BBdetails_Opr:29 - <===========Starting Sites_BB detaisls operations===========>
+2019-10-06 15:03:00 INFO  Site_BBdetails_obj:113 - <=========== User name entered successfully!===========> 
+2019-10-06 15:03:00 INFO  Site_BBdetails_obj:116 - <===========password entered successfully!===========> 
+2019-10-06 15:03:11 INFO  Site_BBdetails_obj:120 - <===========Login button clicked successfully!===========> 
+2019-10-06 15:03:16 INFO  Site_BBdetails_obj:122 - Telecom Dashoard displayed
+2019-10-06 15:03:16 INFO  Site_BBdetails_obj:125 - main menu button clicked successfully
+2019-10-06 15:03:17 INFO  Site_BBdetails_obj:128 - Sites clicked successfully on left menu
+2019-10-06 15:03:19 INFO  Site_BBdetails_obj:131 - BB Details button clicked successfully
+2019-10-06 15:03:19 INFO  Site_BBdetails_obj:133 - BTS Name is :-Curepipe
+2019-10-06 15:03:19 INFO  Site_BBdetails_obj:135 - Location name is :-Black River Gorges
+2019-10-06 15:03:20 INFO  Site_BBdetails_obj:141 - Count of Battery Banks is :-6
+2019-10-06 15:03:20 INFO  Site_BBdetails_obj:143 - Battery banks count below 50% is :-6
+2019-10-06 15:03:20 INFO  Site_BBdetails_obj:145 - Battery banks count 50% to 80% is :-2
+2019-10-06 15:03:20 INFO  Site_BBdetails_obj:147 - Battery baknks count above 80% is :--
+2019-10-06 15:03:20 INFO  Site_BBdetails_obj:150 - BB details expand popup clicked successfully
+2019-10-06 15:03:30 INFO  TestBase:175 - browser closed
+2019-10-06 15:04:26 INFO  TestBase:115 - creating object of chrome
+2019-10-06 15:04:38 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 15:04:47 INFO  Site_BBdetails_Opr:29 - <===========Starting Sites_BB detaisls operations===========>
+2019-10-06 15:04:53 INFO  Site_BBdetails_obj:113 - <=========== User name entered successfully!===========> 
+2019-10-06 15:04:54 INFO  Site_BBdetails_obj:116 - <===========password entered successfully!===========> 
+2019-10-06 15:05:08 INFO  Site_BBdetails_obj:120 - <===========Login button clicked successfully!===========> 
+2019-10-06 15:05:13 INFO  Site_BBdetails_obj:122 - Telecom Dashoard displayed
+2019-10-06 15:05:13 INFO  Site_BBdetails_obj:125 - main menu button clicked successfully
+2019-10-06 15:05:14 INFO  Site_BBdetails_obj:128 - Sites clicked successfully on left menu
+2019-10-06 15:05:17 INFO  Site_BBdetails_obj:131 - BB Details button clicked successfully
+2019-10-06 15:05:17 INFO  Site_BBdetails_obj:133 - BTS Name is :-Curepipe
+2019-10-06 15:05:17 INFO  Site_BBdetails_obj:135 - Location name is :-Black River Gorges
+2019-10-06 15:05:18 INFO  Site_BBdetails_obj:141 - Count of Battery Banks is :-6
+2019-10-06 15:05:18 INFO  Site_BBdetails_obj:143 - Battery banks count below 50% is :-6
+2019-10-06 15:05:18 INFO  Site_BBdetails_obj:145 - Battery banks count 50% to 80% is :-2
+2019-10-06 15:05:18 INFO  Site_BBdetails_obj:147 - Battery baknks count above 80% is :--
+2019-10-06 15:05:19 INFO  Site_BBdetails_obj:150 - BB details expand popup clicked successfully
+2019-10-06 15:05:24 INFO  Site_BBdetails_obj:156 - BTS name validated successfully
+2019-10-06 15:05:24 INFO  Site_BBdetails_obj:161 - Count of cells in popup is :-24
+2019-10-06 15:05:24 INFO  Site_BBdetails_Opr:31 - <===========Ended Sites_BB details operations===========> 
+2019-10-06 15:06:08 INFO  TestBase:175 - browser closed
+2019-10-06 16:33:54 INFO  TestBase:115 - creating object of chrome
+2019-10-06 16:34:04 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 16:34:14 INFO  Site_BBdetails_Opr:29 - <===========Starting Sites_BB detaisls operations===========>
+2019-10-06 16:34:19 INFO  Site_BBdetails_obj:116 - <=========== User name entered successfully!===========> 
+2019-10-06 16:34:20 INFO  Site_BBdetails_obj:119 - <===========password entered successfully!===========> 
+2019-10-06 16:34:31 INFO  Site_BBdetails_obj:123 - <===========Login button clicked successfully!===========> 
+2019-10-06 16:34:36 INFO  Site_BBdetails_obj:125 - Telecom Dashoard displayed
+2019-10-06 16:34:37 INFO  Site_BBdetails_obj:128 - main menu button clicked successfully
+2019-10-06 16:34:37 INFO  Site_BBdetails_obj:131 - Sites clicked successfully on left menu
+2019-10-06 16:34:40 INFO  Site_BBdetails_obj:134 - BB Details button clicked successfully
+2019-10-06 16:34:40 INFO  Site_BBdetails_obj:136 - BTS Name is :-Curepipe
+2019-10-06 16:34:40 INFO  Site_BBdetails_obj:138 - Location name is :-Black River Gorges
+2019-10-06 16:34:41 INFO  Site_BBdetails_obj:144 - Count of Battery Banks is :-6
+2019-10-06 16:34:41 INFO  Site_BBdetails_obj:146 - Battery banks count below 50% is :-6
+2019-10-06 16:34:41 INFO  Site_BBdetails_obj:148 - Battery banks count 50% to 80% is :-2
+2019-10-06 16:34:41 INFO  Site_BBdetails_obj:150 - Battery baknks count above 80% is :--
+2019-10-06 16:34:42 INFO  Site_BBdetails_obj:153 - BB details expand popup clicked successfully
+2019-10-06 16:34:52 INFO  Site_BBdetails_obj:158 - BTS name validated successfully
+2019-10-06 16:34:52 INFO  Site_BBdetails_obj:162 - Location name validated successfully
+2019-10-06 16:34:52 INFO  Site_BBdetails_obj:164 - Count of cells in popup is :-24
+2019-10-06 16:34:58 INFO  Site_BBdetails_obj:166 - Cell name count is :-3245
+2019-10-06 16:34:58 INFO  TestBase:175 - browser closed
+2019-10-06 16:47:31 INFO  TestBase:115 - creating object of chrome
+2019-10-06 16:47:40 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 16:47:52 INFO  Site_BBdetails_Opr:29 - <===========Starting Sites_BB detaisls operations===========>
+2019-10-06 16:47:58 INFO  Site_BBdetails_obj:116 - <=========== User name entered successfully!===========> 
+2019-10-06 16:47:58 INFO  Site_BBdetails_obj:119 - <===========password entered successfully!===========> 
+2019-10-06 16:48:10 INFO  Site_BBdetails_obj:123 - <===========Login button clicked successfully!===========> 
+2019-10-06 16:48:15 INFO  Site_BBdetails_obj:125 - Telecom Dashoard displayed
+2019-10-06 16:48:15 INFO  Site_BBdetails_obj:128 - main menu button clicked successfully
+2019-10-06 16:48:15 INFO  Site_BBdetails_obj:131 - Sites clicked successfully on left menu
+2019-10-06 16:48:18 INFO  Site_BBdetails_obj:134 - BB Details button clicked successfully
+2019-10-06 16:48:18 INFO  Site_BBdetails_obj:136 - BTS Name is :-Curepipe
+2019-10-06 16:48:18 INFO  Site_BBdetails_obj:138 - Location name is :-Black River Gorges
+2019-10-06 16:48:19 INFO  Site_BBdetails_obj:144 - Count of Battery Banks is :-6
+2019-10-06 16:48:19 INFO  Site_BBdetails_obj:146 - Battery banks count below 50% is :-6
+2019-10-06 16:48:19 INFO  Site_BBdetails_obj:148 - Battery banks count 50% to 80% is :-2
+2019-10-06 16:48:19 INFO  Site_BBdetails_obj:150 - Battery baknks count above 80% is :--
+2019-10-06 16:48:20 INFO  Site_BBdetails_obj:153 - BB details expand popup clicked successfully
+2019-10-06 16:48:29 INFO  Site_BBdetails_obj:158 - BTS name validated successfully
+2019-10-06 16:48:29 INFO  Site_BBdetails_obj:162 - Location name validated successfully
+2019-10-06 16:48:30 INFO  Site_BBdetails_obj:164 - Count of cells in popup is :-24
+2019-10-06 16:48:30 INFO  Site_BBdetails_obj:166 - Cell name count is :-25
+2019-10-06 16:48:30 INFO  TestBase:175 - browser closed
+2019-10-06 17:12:04 INFO  TestBase:115 - creating object of chrome
+2019-10-06 17:12:13 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 17:12:26 INFO  Site_BBdetails_Opr:29 - <===========Starting Sites_BB detaisls operations===========>
+2019-10-06 17:12:32 INFO  Site_BBdetails_obj:116 - <=========== User name entered successfully!===========> 
+2019-10-06 17:12:33 INFO  Site_BBdetails_obj:119 - <===========password entered successfully!===========> 
+2019-10-06 17:12:50 INFO  Site_BBdetails_obj:123 - <===========Login button clicked successfully!===========> 
+2019-10-06 17:12:55 INFO  Site_BBdetails_obj:125 - Telecom Dashoard displayed
+2019-10-06 17:12:56 INFO  Site_BBdetails_obj:128 - main menu button clicked successfully
+2019-10-06 17:12:57 INFO  Site_BBdetails_obj:131 - Sites clicked successfully on left menu
+2019-10-06 17:12:59 INFO  Site_BBdetails_obj:134 - BB Details button clicked successfully
+2019-10-06 17:13:00 INFO  Site_BBdetails_obj:136 - BTS Name is :-Curepipe
+2019-10-06 17:13:00 INFO  Site_BBdetails_obj:138 - Location name is :-Black River Gorges
+2019-10-06 17:13:00 INFO  Site_BBdetails_obj:144 - Count of Battery Banks is :-6
+2019-10-06 17:13:00 INFO  Site_BBdetails_obj:146 - Battery banks count below 50% is :-6
+2019-10-06 17:13:00 INFO  Site_BBdetails_obj:148 - Battery banks count 50% to 80% is :-2
+2019-10-06 17:13:01 INFO  Site_BBdetails_obj:150 - Battery baknks count above 80% is :--
+2019-10-06 17:13:01 INFO  Site_BBdetails_obj:153 - BB details expand popup clicked successfully
+2019-10-06 17:13:06 INFO  Site_BBdetails_obj:158 - BTS name validated successfully
+2019-10-06 17:13:11 INFO  Site_BBdetails_obj:162 - Location name validated successfully
+2019-10-06 17:13:11 INFO  Site_BBdetails_obj:164 - Count of cells in popup is :-24
+2019-10-06 17:13:11 INFO  Site_BBdetails_obj:166 - Cell name count is :-25
+2019-10-06 17:13:13 INFO  TestBase:175 - browser closed
+2019-10-06 19:25:34 INFO  TestBase:115 - creating object of chrome
+2019-10-06 19:25:43 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 19:25:54 INFO  Site_BBdetails_Opr:29 - <===========Starting Sites_BB detaisls operations===========>
+2019-10-06 19:26:00 INFO  Site_BBdetails_obj:116 - <=========== User name entered successfully!===========> 
+2019-10-06 19:26:00 INFO  Site_BBdetails_obj:119 - <===========password entered successfully!===========> 
+2019-10-06 19:26:11 INFO  Site_BBdetails_obj:123 - <===========Login button clicked successfully!===========> 
+2019-10-06 19:26:16 INFO  Site_BBdetails_obj:125 - Telecom Dashoard displayed
+2019-10-06 19:26:16 INFO  Site_BBdetails_obj:128 - main menu button clicked successfully
+2019-10-06 19:26:16 INFO  Site_BBdetails_obj:131 - Sites clicked successfully on left menu
+2019-10-06 19:26:18 INFO  Site_BBdetails_obj:134 - BB Details button clicked successfully
+2019-10-06 19:26:19 INFO  Site_BBdetails_obj:136 - BTS Name is :-Curepipe
+2019-10-06 19:26:19 INFO  Site_BBdetails_obj:138 - Location name is :-Black River Gorges
+2019-10-06 19:26:19 INFO  Site_BBdetails_obj:144 - Count of Battery Banks is :-6
+2019-10-06 19:26:19 INFO  Site_BBdetails_obj:146 - Battery banks count below 50% is :-6
+2019-10-06 19:26:20 INFO  Site_BBdetails_obj:148 - Battery banks count 50% to 80% is :-2
+2019-10-06 19:26:20 INFO  Site_BBdetails_obj:150 - Battery baknks count above 80% is :--
+2019-10-06 19:26:20 INFO  Site_BBdetails_obj:153 - BB details expand popup clicked successfully
+2019-10-06 19:26:25 INFO  Site_BBdetails_obj:158 - BTS name validated successfully
+2019-10-06 19:26:26 INFO  Site_BBdetails_obj:162 - Location name validated successfully
+2019-10-06 19:26:30 INFO  Site_BBdetails_obj:164 - Count of cells in popup is :-24
+2019-10-06 19:26:31 INFO  Site_BBdetails_obj:166 - Cell name count is :-25
+2019-10-06 19:26:31 INFO  TestBase:175 - browser closed
+2019-10-06 19:31:37 INFO  TestBase:115 - creating object of chrome
+2019-10-06 19:31:45 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 19:31:56 INFO  Site_BBdetails_Opr:29 - <===========Starting Sites_BB detaisls operations===========>
+2019-10-06 19:32:01 INFO  Site_BBdetails_obj:116 - <=========== User name entered successfully!===========> 
+2019-10-06 19:32:02 INFO  Site_BBdetails_obj:119 - <===========password entered successfully!===========> 
+2019-10-06 19:32:15 INFO  Site_BBdetails_obj:123 - <===========Login button clicked successfully!===========> 
+2019-10-06 19:32:20 INFO  Site_BBdetails_obj:125 - Telecom Dashoard displayed
+2019-10-06 19:32:21 INFO  Site_BBdetails_obj:128 - main menu button clicked successfully
+2019-10-06 19:32:21 INFO  Site_BBdetails_obj:131 - Sites clicked successfully on left menu
+2019-10-06 19:32:26 INFO  Site_BBdetails_obj:134 - BB Details button clicked successfully
+2019-10-06 19:32:26 INFO  Site_BBdetails_obj:136 - BTS Name is :-Curepipe
+2019-10-06 19:32:26 INFO  Site_BBdetails_obj:138 - Location name is :-Black River Gorges
+2019-10-06 19:32:27 INFO  Site_BBdetails_obj:144 - Count of Battery Banks is :-6
+2019-10-06 19:32:27 INFO  Site_BBdetails_obj:146 - Battery banks count below 50% is :-6
+2019-10-06 19:32:27 INFO  Site_BBdetails_obj:148 - Battery banks count 50% to 80% is :-2
+2019-10-06 19:32:27 INFO  Site_BBdetails_obj:150 - Battery baknks count above 80% is :--
+2019-10-06 19:32:28 INFO  Site_BBdetails_obj:153 - BB details expand popup clicked successfully
+2019-10-06 19:32:33 INFO  Site_BBdetails_obj:158 - BTS name validated successfully
+2019-10-06 19:32:33 INFO  Site_BBdetails_obj:162 - Location name validated successfully
+2019-10-06 19:32:33 INFO  Site_BBdetails_obj:164 - Count of cells in popup is :-24
+2019-10-06 19:32:33 INFO  Site_BBdetails_obj:166 - Cell name columns count is :-25
+2019-10-06 19:32:33 INFO  TestBase:175 - browser closed
+2019-10-06 19:36:08 INFO  TestBase:115 - creating object of chrome
+2019-10-06 19:36:17 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 19:36:29 INFO  Site_BBdetails_Opr:29 - <===========Starting Sites_BB detaisls operations===========>
+2019-10-06 19:36:35 INFO  Site_BBdetails_obj:116 - <=========== User name entered successfully!===========> 
+2019-10-06 19:36:36 INFO  Site_BBdetails_obj:119 - <===========password entered successfully!===========> 
+2019-10-06 19:36:48 INFO  Site_BBdetails_obj:123 - <===========Login button clicked successfully!===========> 
+2019-10-06 19:36:53 INFO  Site_BBdetails_obj:125 - Telecom Dashoard displayed
+2019-10-06 19:36:53 INFO  Site_BBdetails_obj:128 - main menu button clicked successfully
+2019-10-06 19:36:54 INFO  Site_BBdetails_obj:131 - Sites clicked successfully on left menu
+2019-10-06 19:36:57 INFO  Site_BBdetails_obj:134 - BB Details button clicked successfully
+2019-10-06 19:36:58 INFO  Site_BBdetails_obj:136 - BTS Name is :-Curepipe
+2019-10-06 19:36:58 INFO  Site_BBdetails_obj:138 - Location name is :-Black River Gorges
+2019-10-06 19:36:59 INFO  Site_BBdetails_obj:144 - Count of Battery Banks is :-6
+2019-10-06 19:36:59 INFO  Site_BBdetails_obj:146 - Battery banks count below 50% is :-6
+2019-10-06 19:36:59 INFO  Site_BBdetails_obj:148 - Battery banks count 50% to 80% is :-2
+2019-10-06 19:36:59 INFO  Site_BBdetails_obj:150 - Battery baknks count above 80% is :--
+2019-10-06 19:37:00 INFO  Site_BBdetails_obj:153 - BB details expand popup clicked successfully
+2019-10-06 19:37:05 INFO  Site_BBdetails_obj:158 - BTS name validated successfully
+2019-10-06 19:37:11 INFO  Site_BBdetails_obj:162 - Location name validated successfully
+2019-10-06 19:37:11 INFO  Site_BBdetails_obj:164 - Count of cells in popup is :-24
+2019-10-06 19:37:11 INFO  Site_BBdetails_obj:166 - Cell name columns count is :-25
+2019-10-06 19:37:11 INFO  TestBase:175 - browser closed
+2019-10-06 19:40:14 INFO  TestBase:115 - creating object of chrome
+2019-10-06 19:40:25 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 19:40:39 INFO  Site_BBdetails_Opr:29 - <===========Starting Sites_BB detaisls operations===========>
+2019-10-06 19:40:45 INFO  Site_BBdetails_obj:116 - <=========== User name entered successfully!===========> 
+2019-10-06 19:40:45 INFO  Site_BBdetails_obj:119 - <===========password entered successfully!===========> 
+2019-10-06 19:40:57 INFO  Site_BBdetails_obj:123 - <===========Login button clicked successfully!===========> 
+2019-10-06 19:41:02 INFO  Site_BBdetails_obj:125 - Telecom Dashoard displayed
+2019-10-06 19:41:03 INFO  Site_BBdetails_obj:128 - main menu button clicked successfully
+2019-10-06 19:41:03 INFO  Site_BBdetails_obj:131 - Sites clicked successfully on left menu
+2019-10-06 19:41:07 INFO  Site_BBdetails_obj:134 - BB Details button clicked successfully
+2019-10-06 19:41:07 INFO  Site_BBdetails_obj:136 - BTS Name is :-Curepipe
+2019-10-06 19:41:07 INFO  Site_BBdetails_obj:138 - Location name is :-Black River Gorges
+2019-10-06 19:41:08 INFO  Site_BBdetails_obj:144 - Count of Battery Banks is :-6
+2019-10-06 19:41:08 INFO  Site_BBdetails_obj:146 - Battery banks count below 50% is :-6
+2019-10-06 19:41:08 INFO  Site_BBdetails_obj:148 - Battery banks count 50% to 80% is :-2
+2019-10-06 19:41:08 INFO  Site_BBdetails_obj:150 - Battery baknks count above 80% is :--
+2019-10-06 19:41:09 INFO  Site_BBdetails_obj:153 - BB details expand popup clicked successfully
+2019-10-06 19:41:14 INFO  Site_BBdetails_obj:158 - BTS name validated successfully
+2019-10-06 19:41:23 INFO  Site_BBdetails_obj:162 - Location name validated successfully
+2019-10-06 19:41:24 INFO  Site_BBdetails_obj:164 - Count of cells in popup is :-24
+2019-10-06 19:41:24 INFO  Site_BBdetails_obj:166 - Cell name columns count is :-25
+2019-10-06 19:41:24 INFO  TestBase:175 - browser closed
+2019-10-06 19:44:15 INFO  TestBase:115 - creating object of chrome
+2019-10-06 19:44:26 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 19:44:37 INFO  Site_BBdetails_Opr:29 - <===========Starting Sites_BB detaisls operations===========>
+2019-10-06 19:44:43 INFO  Site_BBdetails_obj:116 - <=========== User name entered successfully!===========> 
+2019-10-06 19:44:44 INFO  Site_BBdetails_obj:119 - <===========password entered successfully!===========> 
+2019-10-06 19:44:58 INFO  Site_BBdetails_obj:123 - <===========Login button clicked successfully!===========> 
+2019-10-06 19:45:03 INFO  Site_BBdetails_obj:125 - Telecom Dashoard displayed
+2019-10-06 19:45:04 INFO  Site_BBdetails_obj:128 - main menu button clicked successfully
+2019-10-06 19:45:04 INFO  Site_BBdetails_obj:131 - Sites clicked successfully on left menu
+2019-10-06 19:45:06 INFO  Site_BBdetails_obj:134 - BB Details button clicked successfully
+2019-10-06 19:45:07 INFO  Site_BBdetails_obj:136 - BTS Name is :-Curepipe
+2019-10-06 19:45:07 INFO  Site_BBdetails_obj:138 - Location name is :-Black River Gorges
+2019-10-06 19:45:08 INFO  Site_BBdetails_obj:144 - Count of Battery Banks is :-6
+2019-10-06 19:45:08 INFO  Site_BBdetails_obj:146 - Battery banks count below 50% is :-6
+2019-10-06 19:45:08 INFO  Site_BBdetails_obj:148 - Battery banks count 50% to 80% is :-2
+2019-10-06 19:45:09 INFO  Site_BBdetails_obj:150 - Battery baknks count above 80% is :--
+2019-10-06 19:45:10 INFO  Site_BBdetails_obj:153 - BB details expand popup clicked successfully
+2019-10-06 19:45:15 INFO  Site_BBdetails_obj:158 - BTS name validated successfully
+2019-10-06 19:45:15 INFO  Site_BBdetails_obj:162 - Location name validated successfully
+2019-10-06 19:45:16 INFO  Site_BBdetails_obj:164 - Count of cells in popup is :-24
+2019-10-06 19:45:16 INFO  Site_BBdetails_obj:166 - Cell name columns count is :-25
+2019-10-06 19:45:23 INFO  TestBase:175 - browser closed
+2019-10-06 21:33:10 INFO  TestBase:115 - creating object of chrome
+2019-10-06 21:33:35 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 21:33:49 INFO  Sites_MCB_Opr:30 - <===========Starting MCB operations===========>
+2019-10-06 21:33:55 INFO  Site_MCB_obj:97 - <=========== User name entered successfully!===========> 
+2019-10-06 21:33:55 INFO  Site_MCB_obj:100 - <===========password entered successfully!===========> 
+2019-10-06 21:34:10 INFO  Site_MCB_obj:104 - <===========Login button clicked successfully!===========> 
+2019-10-06 21:34:15 INFO  Site_MCB_obj:106 - Telecom Dashoard displayed
+2019-10-06 21:34:15 INFO  Site_MCB_obj:109 - main menu button clicked successfully
+2019-10-06 21:34:16 INFO  Site_MCB_obj:112 - Sites clicked successfully on left menu
+2019-10-06 21:34:20 INFO  Site_MCB_obj:115 - MCB button clicked successfully
+2019-10-06 21:34:21 INFO  Site_MCB_obj:117 - BTS name first row is :-Curepipe
+2019-10-06 21:34:21 INFO  Site_MCB_obj:119 - Location name in first row is :-Black River Gorges
+2019-10-06 21:34:21 INFO  Site_MCB_obj:121 - MCB's Off count is :- 22
+2019-10-06 21:34:23 INFO  Site_MCB_obj:128 - MCB first row popup clicked successfully
+2019-10-06 21:34:24 INFO  TestBase:175 - browser closed
+2019-10-06 21:40:43 INFO  TestBase:115 - creating object of chrome
+2019-10-06 21:40:51 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 21:41:01 INFO  Sites_MCB_Opr:30 - <===========Starting MCB operations===========>
+2019-10-06 21:41:06 INFO  Site_MCB_obj:97 - <=========== User name entered successfully!===========> 
+2019-10-06 21:41:07 INFO  Site_MCB_obj:100 - <===========password entered successfully!===========> 
+2019-10-06 21:41:18 INFO  Site_MCB_obj:104 - <===========Login button clicked successfully!===========> 
+2019-10-06 21:41:23 INFO  Site_MCB_obj:106 - Telecom Dashoard displayed
+2019-10-06 21:41:23 INFO  Site_MCB_obj:109 - main menu button clicked successfully
+2019-10-06 21:41:23 INFO  Site_MCB_obj:112 - Sites clicked successfully on left menu
+2019-10-06 21:41:25 INFO  Site_MCB_obj:115 - MCB button clicked successfully
+2019-10-06 21:41:26 INFO  Site_MCB_obj:117 - BTS name first row is :-Curepipe
+2019-10-06 21:41:26 INFO  Site_MCB_obj:119 - Location name in first row is :-Black River Gorges
+2019-10-06 21:41:26 INFO  Site_MCB_obj:121 - MCB's Off count is :- 0
+2019-10-06 21:41:27 INFO  Site_MCB_obj:128 - MCB first row popup clicked successfully
+2019-10-06 21:41:35 INFO  Site_MCB_obj:133 - BTS name validated successfully
+2019-10-06 21:41:35 INFO  Site_MCB_obj:137 - Location name validated successfully
+2019-10-06 21:41:35 INFO  Site_MCB_obj:139 - count of MCB's off :-0
+2019-10-06 21:41:35 INFO  Site_MCB_obj:141 - count of MCB's On :-0
+2019-10-06 21:41:35 INFO  Sites_MCB_Opr:32 - <===========Ended MCB operations===========> 
+2019-10-06 21:41:35 INFO  TestBase:175 - browser closed
+2019-10-06 21:54:49 INFO  TestBase:115 - creating object of chrome
+2019-10-06 21:54:58 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-06 21:55:07 INFO  Sites_MCB_Opr:30 - <===========Starting MCB operations===========>
+2019-10-06 21:55:13 INFO  Site_MCB_obj:97 - <=========== User name entered successfully!===========> 
+2019-10-06 21:55:13 INFO  Site_MCB_obj:100 - <===========password entered successfully!===========> 
+2019-10-06 21:55:24 INFO  Site_MCB_obj:104 - <===========Login button clicked successfully!===========> 
+2019-10-06 21:55:29 INFO  Site_MCB_obj:106 - Telecom Dashoard displayed
+2019-10-06 21:55:29 INFO  Site_MCB_obj:109 - main menu button clicked successfully
+2019-10-06 21:55:29 INFO  Site_MCB_obj:112 - Sites clicked successfully on left menu
+2019-10-06 21:55:31 INFO  Site_MCB_obj:115 - MCB button clicked successfully
+2019-10-06 21:55:33 INFO  Site_MCB_obj:117 - BTS name first row is :-Curepipe
+2019-10-06 21:55:33 INFO  Site_MCB_obj:119 - Location name in first row is :-Black River Gorges
+2019-10-06 21:55:33 INFO  Site_MCB_obj:121 - MCB's Off count is :- 17
+2019-10-06 21:55:34 INFO  Site_MCB_obj:128 - MCB first row popup clicked successfully
+2019-10-06 21:55:43 INFO  Site_MCB_obj:133 - BTS name validated successfully
+2019-10-06 21:55:43 INFO  Site_MCB_obj:137 - Location name validated successfully
+2019-10-06 21:55:43 INFO  Site_MCB_obj:139 - count of MCB's off :-17
+2019-10-06 21:55:43 INFO  Site_MCB_obj:141 - count of MCB's On :-23
+2019-10-06 21:55:43 INFO  Sites_MCB_Opr:32 - <===========Ended MCB operations===========> 
+2019-10-06 21:55:44 INFO  TestBase:175 - browser closed
+=======
+>>>>>>> b7747671c909d42a2b11f77bffc729608ad4f28f
