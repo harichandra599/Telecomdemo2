@@ -1,6 +1,8 @@
 package com.Telecom.uiActions;
 
+import java.io.FileInputStream;
 import java.util.List;
+import java.util.Properties;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
@@ -109,14 +111,17 @@ public class Site_BBdetails_obj extends TestBase
     
     public void sites_BBdetails_operations() throws Exception
     {
-  	  //enter user name  
-      Thread.sleep(5000);
-      tusername.sendKeys("dharmendra.pandit@techolution.com");
-      log.info("<=========== User name entered successfully!===========> ");
+       //call property file for reading user name and password 
+       Properties prop=new Properties();
+       FileInputStream propfile = new FileInputStream(System.getProperty("user.dir")+"\\config.properties");
+       prop.load(propfile);
+       //enter user name 
+       Thread.sleep(5000);
+       tusername.sendKeys(prop.getProperty("username"));
+       log.info("<=========== User name entered successfully!===========> ");
       //enter password
-      tpassword.sendKeys("mt123");
-  	  log.info("<===========password entered successfully!===========> ");
-  	  Thread.sleep(5000);
+      tpassword.sendKeys(prop.getProperty("password"));
+      log.info("<===========password entered successfully!===========> ");
   	  //click on login button
       loginbutton.click();
       log.info("<===========Login button clicked successfully!===========> "); 	

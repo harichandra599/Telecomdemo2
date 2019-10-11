@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [TestCases]">
+  <test thread-count="5" verbose="0" name="Telecom(failed)">
+    <classes>
+      <class name="com.Telecom.LoginPage.Telecomopr">
+        <methods>
+          <include name="telecomoperations"/>
+          <include name="openbrowser"/>
+          <include name="browserclose"/>
+        </methods>
+      </class> <!-- com.Telecom.LoginPage.Telecomopr -->
+    </classes>
+  </test> <!-- Telecom(failed) -->
+</suite> <!-- Failed suite [TestCases] -->

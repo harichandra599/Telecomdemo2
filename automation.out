@@ -8139,3 +8139,13 @@
 2019-10-07 18:37:12 INFO  Telecomobj:173 - <===========password entered successfully!===========> 
 2019-10-07 18:37:18 INFO  Telecomobj:176 - <===========Login button clicked successfully!===========> 
 2019-10-07 18:37:23 INFO  Telecomobj:178 - Telecom Dashoard displayed
+2019-10-10 22:47:32 INFO  TestBase:115 - creating object of chrome
+2019-10-10 22:47:53 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-10 22:48:01 INFO  Telecomopr:30 - <===========Starting Telecom operations===========>
+2019-10-11 00:08:42 INFO  TestBase:115 - creating object of chrome
+2019-10-11 00:08:45 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-11 00:08:55 INFO  Telecomopr:30 - <===========Starting Telecom operations===========>
+2019-10-11 00:09:00 INFO  Telecomobj:171 - <=========== User name entered successfully!===========> 
+2019-10-11 00:09:01 INFO  Telecomobj:173 - <===========password entered successfully!===========> 
+2019-10-11 00:09:08 INFO  Telecomobj:176 - <===========Login button clicked successfully!===========> 
+2019-10-11 00:09:13 INFO  Telecomobj:178 - Telecom Dashoard displayed

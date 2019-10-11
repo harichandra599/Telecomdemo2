@@ -1,5 +1,8 @@
 package com.Telecom.uiActions;
 
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.Properties;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -9,12 +12,14 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
 import com.Telecom.testBase.TestBase;
+import com.Telecom.config.*;
 
 public class Site_MCB_obj extends TestBase
-{
+   {
 	WebDriver driver;
 	SoftAssert softassert=new SoftAssert();
-	
+   
+    
     public static final Logger log=Logger.getLogger(Site_MCB_obj.class.getName());
     
     public  Site_MCB_obj(WebDriver driver)
@@ -87,14 +92,18 @@ public class Site_MCB_obj extends TestBase
     
     
     
-    public void sites_MCB_operations() throws Exception
+    public void sites_MCB_operations() throws IOException, Exception 
     {
-  	  //enter user name  
+      //call property file for reading user name and password 
+      Properties prop=new Properties();
+      FileInputStream propfile = new FileInputStream(System.getProperty("user.dir")+"\\config.properties");
+      prop.load(propfile);
+      //enter user name 
       Thread.sleep(5000);
-      tusername.sendKeys("dharmendra.pandit@techolution.com");
+      tusername.sendKeys(prop.getProperty("username"));
       log.info("<=========== User name entered successfully!===========> ");
       //enter password
-      tpassword.sendKeys("mt123");
+      tpassword.sendKeys(prop.getProperty("password"));
   	  log.info("<===========password entered successfully!===========> ");
   	  Thread.sleep(5000);
   	  //click on login button
