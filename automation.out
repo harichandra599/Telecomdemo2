@@ -8149,3 +8149,111 @@
 2019-10-11 00:09:01 INFO  Telecomobj:173 - <===========password entered successfully!===========> 
 2019-10-11 00:09:08 INFO  Telecomobj:176 - <===========Login button clicked successfully!===========> 
 2019-10-11 00:09:13 INFO  Telecomobj:178 - Telecom Dashoard displayed
+2019-10-14 17:00:45 INFO  TestBase:115 - creating object of chrome
+2019-10-14 17:00:54 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-14 17:01:03 INFO  Site_BBdetails_Opr:29 - <===========Starting Sites_BB detaisls operations===========>
+2019-10-14 17:01:04 INFO  TestBase:175 - browser closed
+2019-10-14 17:05:57 INFO  TestBase:115 - creating object of chrome
+2019-10-14 17:06:01 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-14 17:06:08 INFO  Sites_Opr:32 - <===========Starting Sites operations===========>
+2019-10-14 17:06:09 INFO  TestBase:175 - browser closed
+2019-10-14 17:08:53 INFO  TestBase:115 - creating object of chrome
+2019-10-14 17:08:57 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-14 17:09:06 INFO  Sites_Opr:32 - <===========Starting Sites operations===========>
+2019-10-14 17:09:12 INFO  Siteobj:174 - <=========== User name entered successfully!===========> 
+2019-10-14 17:09:12 INFO  Siteobj:177 - <===========password entered successfully!===========> 
+2019-10-14 17:09:17 INFO  Siteobj:180 - <===========Login button clicked successfully!===========> 
+2019-10-14 17:09:22 INFO  Siteobj:182 - Telecom Dashoard displayed
+2019-10-14 17:09:22 INFO  Siteobj:185 - main menu button clicked successfully
+2019-10-14 17:09:22 INFO  Siteobj:188 - Sites clicked successfully on left menu
+2019-10-14 17:09:24 INFO  Siteobj:190 - BTS Name is :- Curepipe
+2019-10-14 17:09:24 INFO  Siteobj:192 - Location is :-Black River Gorges
+2019-10-14 17:09:24 INFO  Siteobj:194 - alerts count is :-2
+2019-10-14 17:09:24 INFO  Siteobj:196 -  Site Status is :-Online
+2019-10-14 17:09:24 INFO  Siteobj:198 - Main line status is :-Active
+2019-10-14 17:09:24 INFO  Siteobj:200 - BB status is :-Active
+2019-10-14 17:09:25 INFO  Siteobj:202 - DG Status is :-Inactive
+2019-10-14 17:09:25 INFO  Siteobj:204 - Energy consumption is :-1880 KwH
+2019-10-14 17:09:25 INFO  Siteobj:206 - AC status left value is :-
+2019-10-14 17:09:25 INFO  Siteobj:208 - AC status Right value is :-0
+2019-10-14 17:09:25 INFO  Siteobj:210 - Room Temp is :--
+2019-10-14 17:12:09 INFO  Siteobj:212 -  MCB Down value is :-22
+2019-10-14 17:12:09 INFO  Siteobj:228 - Site location validated successfully
+2019-10-14 17:12:09 INFO  Siteobj:231 - <===========Sites Second Row Data===========> 
+2019-10-14 17:12:09 INFO  Siteobj:233 - BTS Name is :- Curepipe
+2019-10-14 17:12:09 INFO  Siteobj:235 - Location is :-Le Morne
+2019-10-14 17:12:09 INFO  Siteobj:237 - alerts count is :-2
+2019-10-14 17:12:09 INFO  Siteobj:239 -  Site Status is :-Offline
+2019-10-14 17:12:09 INFO  Siteobj:241 - Main line status is :-Active
+2019-10-14 17:12:10 INFO  Siteobj:243 - BB status is :-Active
+2019-10-14 17:12:10 INFO  Siteobj:245 - DG Status is :-Inactive
+2019-10-14 17:12:10 INFO  Siteobj:247 - Energy consumption is :-0 KwH
+2019-10-14 17:12:10 INFO  Siteobj:249 - AC status left value is :-0
+2019-10-14 17:12:10 INFO  Siteobj:251 - AC status Right value is :-1
+2019-10-14 17:12:10 INFO  Siteobj:253 - Room Temp is :--
+2019-10-14 17:12:10 INFO  Siteobj:255 -  MCB Down value is :-2
+2019-10-14 17:12:10 INFO  Siteobj:258 - <===========Sites Third Row Data===========> 
+2019-10-14 17:12:10 INFO  Siteobj:260 - BTS Name is :- Curepipe
+2019-10-14 17:12:10 INFO  Siteobj:262 - Location is :-Trou lac biches
+2019-10-14 17:12:10 INFO  Siteobj:264 - alerts count is :-2
+2019-10-14 17:12:10 INFO  Siteobj:266 -  Site Status is :-Offline
+2019-10-14 17:12:10 INFO  Siteobj:268 - Main line status is :-Active
+2019-10-14 17:12:10 INFO  Siteobj:270 - BB status is :-Inactive
+2019-10-14 17:12:10 INFO  Siteobj:272 - DG Status is :-Active
+2019-10-14 17:12:11 INFO  Siteobj:274 - Energy consumption is :-0 KwH
+2019-10-14 17:12:11 INFO  Siteobj:276 - AC status left value is :-1
+2019-10-14 17:12:11 INFO  Siteobj:278 - AC status Right value is :-0
+2019-10-14 17:12:11 INFO  Siteobj:280 - Room Temp is :--
+2019-10-14 17:12:11 INFO  Siteobj:282 -  MCB Down value is :-8
+2019-10-14 17:12:11 INFO  Sites_Opr:34 - <===========Ended Sites operations===========> 
+2019-10-14 17:12:54 INFO  TestBase:175 - browser closed
+2019-10-14 17:29:28 INFO  TestBase:115 - creating object of chrome
+2019-10-14 17:29:30 INFO  TestBase:134 -  =====>Navigating to url<======= http://34.68.136.212:4201
+2019-10-14 17:29:40 INFO  Sites_Opr:32 - <===========Starting Sites operations===========>
+2019-10-14 17:29:45 INFO  Siteobj:174 - <=========== User name entered successfully!===========> 
+2019-10-14 17:29:45 INFO  Siteobj:177 - <===========password entered successfully!===========> 
+2019-10-14 17:29:50 INFO  Siteobj:180 - <===========Login button clicked successfully!===========> 
+2019-10-14 17:29:55 INFO  Siteobj:182 - Telecom Dashoard displayed
+2019-10-14 17:29:56 INFO  Siteobj:185 - main menu button clicked successfully
+2019-10-14 17:29:56 INFO  Siteobj:188 - Sites clicked successfully on left menu
+2019-10-14 17:29:57 INFO  Siteobj:190 - BTS Name is :- Curepipe
+2019-10-14 17:29:57 INFO  Siteobj:192 - Location is :-Black River Gorges
+2019-10-14 17:29:58 INFO  Siteobj:194 - alerts count is :-2
+2019-10-14 17:29:58 INFO  Siteobj:196 -  Site Status is :-Online
+2019-10-14 17:29:58 INFO  Siteobj:198 - Main line status is :-Active
+2019-10-14 17:29:58 INFO  Siteobj:200 - BB status is :-Active
+2019-10-14 17:29:58 INFO  Siteobj:202 - DG Status is :-Inactive
+2019-10-14 17:29:58 INFO  Siteobj:204 - Energy consumption is :-1076 KwH
+2019-10-14 17:29:58 INFO  Siteobj:206 - AC status left value is :-
+2019-10-14 17:29:58 INFO  Siteobj:208 - AC status Right value is :-1
+2019-10-14 17:29:58 INFO  Siteobj:210 - Room Temp is :--
+2019-10-14 17:29:58 INFO  Siteobj:212 -  MCB Down value is :-20
+2019-10-14 17:29:58 INFO  Siteobj:228 - Site location validated successfully
+2019-10-14 17:29:58 INFO  Siteobj:231 - <===========Sites Second Row Data===========> 
+2019-10-14 17:29:58 INFO  Siteobj:233 - BTS Name is :- Curepipe
+2019-10-14 17:29:58 INFO  Siteobj:235 - Location is :-Le Morne
+2019-10-14 17:29:58 INFO  Siteobj:237 - alerts count is :-2
+2019-10-14 17:29:58 INFO  Siteobj:239 -  Site Status is :-Offline
+2019-10-14 17:29:59 INFO  Siteobj:241 - Main line status is :-Active
+2019-10-14 17:29:59 INFO  Siteobj:243 - BB status is :-Active
+2019-10-14 17:29:59 INFO  Siteobj:245 - DG Status is :-Inactive
+2019-10-14 17:29:59 INFO  Siteobj:247 - Energy consumption is :-0 KwH
+2019-10-14 17:29:59 INFO  Siteobj:249 - AC status left value is :-1
+2019-10-14 17:29:59 INFO  Siteobj:251 - AC status Right value is :-0
+2019-10-14 17:29:59 INFO  Siteobj:253 - Room Temp is :--
+2019-10-14 17:29:59 INFO  Siteobj:255 -  MCB Down value is :-4
+2019-10-14 17:29:59 INFO  Siteobj:258 - <===========Sites Third Row Data===========> 
+2019-10-14 17:29:59 INFO  Siteobj:260 - BTS Name is :- Curepipe
+2019-10-14 17:29:59 INFO  Siteobj:262 - Location is :-Trou lac biches
+2019-10-14 17:29:59 INFO  Siteobj:264 - alerts count is :-2
+2019-10-14 17:29:59 INFO  Siteobj:266 -  Site Status is :-Offline
+2019-10-14 17:29:59 INFO  Siteobj:268 - Main line status is :-Active
+2019-10-14 17:29:59 INFO  Siteobj:270 - BB status is :-Inactive
+2019-10-14 17:30:00 INFO  Siteobj:272 - DG Status is :-Active
+2019-10-14 17:30:00 INFO  Siteobj:274 - Energy consumption is :-0 KwH
+2019-10-14 17:30:00 INFO  Siteobj:276 - AC status left value is :-1
+2019-10-14 17:30:00 INFO  Siteobj:278 - AC status Right value is :-0
+2019-10-14 17:30:00 INFO  Siteobj:280 - Room Temp is :--
+2019-10-14 17:30:00 INFO  Siteobj:282 -  MCB Down value is :-11
+2019-10-14 17:30:00 INFO  Sites_Opr:34 - <===========Ended Sites operations===========> 
+2019-10-14 17:30:44 INFO  TestBase:175 - browser closed

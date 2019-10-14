@@ -40,6 +40,8 @@ public class Telecom_Login extends TestBase
 		  
 		  tellogin.Telecom_Login(username, password);
 		  log.info("<===========Ended Telecom user login operations===========> ");
+		  Sendmail sndmail=new Sendmail();
+		  sndmail.SendAttachment();
 	  }
 
 	@AfterMethod

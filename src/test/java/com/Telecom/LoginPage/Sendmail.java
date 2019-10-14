@@ -1,6 +1,8 @@
 package com.Telecom.LoginPage;
 import javax.mail.*;  
 import javax.mail.internet.*;
+
+import java.io.FileInputStream;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -80,7 +82,7 @@ public class Sendmail
            "QA Automation Team");
            
            Thread.sleep(20000);
-           String filename = "/Telecomdemo/test-output/emailable-report.html";//change accordingly 
+           String filename = "C:\\Users\\Hari\\git\\Telecomdemo2\\test-output\\emailable-report.html";//change accordingly 
            DataSource source = new FileDataSource(filename);  
            messageBodyPart2.setDataHandler(new DataHandler(source));  
            messageBodyPart2.setFileName(filename);  

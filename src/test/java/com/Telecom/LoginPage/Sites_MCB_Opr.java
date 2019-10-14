@@ -30,8 +30,8 @@ public class Sites_MCB_Opr extends TestBase
 		  log.info("<===========Starting MCB operations===========>");
 		  mcbdetails.sites_MCB_operations();
 		  log.info("<===========Ended MCB operations===========> ");
-		/*  Sendmail sndmail=new Sendmail();
-		  sndmail.SendAttachment();*/
+		  Sendmail sndmail=new Sendmail();
+		  sndmail.SendAttachment();
 		  
 	  }
 

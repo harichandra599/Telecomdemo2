@@ -29,8 +29,8 @@ public class Site_BBdetails_Opr extends TestBase
 		  log.info("<===========Starting Sites_BB detaisls operations===========>");
 		  bbdetails.sites_BBdetails_operations();
 		  log.info("<===========Ended Sites_BB details operations===========> ");
-		/*  Sendmail sndmail=new Sendmail();
-		  sndmail.SendAttachment();*/
+		  Sendmail sndmail=new Sendmail();
+		  sndmail.SendAttachment();
 		  
 	  }
 

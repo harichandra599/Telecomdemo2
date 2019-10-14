@@ -170,7 +170,7 @@ public class Telecomobj extends TestBase
     {
       //call property file for reading user name and password 
       Properties prop=new Properties();
-      FileInputStream propfile = new FileInputStream(System.getProperty("user.dir")+"\\config.properties");
+      FileInputStream propfile = new FileInputStream(System.getProperty("user.dir")+"\\src\\main\\java\\com\\Telecom\\config\\config.properties");
       prop.load(propfile);
       //enter user name 
       Thread.sleep(5000);
